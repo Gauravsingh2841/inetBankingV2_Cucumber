@@ -9,7 +9,7 @@
     <maven.compiler.target>17</maven.compiler.target>
   </properties>
   
-  <!-- Plug-ins required for executing Tests kept in testng file      -->
+  <!-- Plug-ins required for executing Tests kept in Cucumber test runner      -->
   <build>
   		<plugins>
         
