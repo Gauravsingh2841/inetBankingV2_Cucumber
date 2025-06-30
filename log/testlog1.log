@@ -1,0 +1,1246 @@
+2025-06-29 22:55:36,471 [main] INFO inetBankingV2 - *********Launching browser**********
+2025-06-29 22:55:37,532 [main] INFO inetBankingV2 - *********Opening URL**********
+2025-06-29 22:55:39,705 [main] INFO inetBankingV2 - *********Providing Login details**********
+2025-06-29 22:55:39,845 [main] INFO inetBankingV2 - *********Started Login Process**********
+2025-06-29 22:55:40,497 [main] INFO inetBankingV2 - *********Login passed**********
+2025-06-29 22:55:44,517 [main] INFO inetBankingV2 - *********Adding New Customer**********
+2025-06-29 22:55:44,518 [main] INFO inetBankingV2 - *********Providing customer details**********
+2025-06-29 22:55:49,885 [main] INFO inetBankingV2 - *********Submitting customer details**********
+2025-06-29 22:55:53,603 [main] INFO inetBankingV2 - *********Closing browser**********
+2025-06-29 22:55:53,698 [main] INFO inetBankingV2 - *********Launching browser**********
+2025-06-29 22:55:54,344 [main] INFO inetBankingV2 - *********Opening URL**********
+2025-06-29 22:55:56,638 [main] INFO inetBankingV2 - *********Providing Login details**********
+2025-06-29 22:55:56,768 [main] INFO inetBankingV2 - *********Started Login Process**********
+2025-06-29 22:55:57,578 [main] INFO inetBankingV2 - *********Login passed**********
+2025-06-29 22:55:58,947 [main] INFO inetBankingV2 - *********Checking already registered customer**********
+2025-06-29 22:55:58,948 [main] INFO inetBankingV2 - *********Providing a valid customer login details**********
+2025-06-29 22:55:59,015 [main] INFO inetBankingV2 - *********Submitting an existing customer details**********
+2025-06-29 22:55:59,050 [main] INFO inetBankingV2 - *********Confirmed that the costumer is already registered**********
+2025-06-29 22:55:59,948 [main] INFO inetBankingV2 - *********Closing browser**********
+2025-06-29 22:56:00,041 [main] INFO inetBankingV2 - *********Launching browser**********
+2025-06-29 22:56:00,691 [main] INFO inetBankingV2 - *********Opening URL**********
+2025-06-29 22:56:03,690 [main] INFO inetBankingV2 - *********Providing Login details**********
+2025-06-29 22:56:03,820 [main] INFO inetBankingV2 - *********Started Login Process**********
+2025-06-29 22:56:04,495 [main] INFO inetBankingV2 - *********Login passed**********
+2025-06-29 22:56:04,496 [main] INFO inetBankingV2 - *********Closing browser**********
+2025-06-29 22:56:04,589 [main] INFO inetBankingV2 - *********Launching browser**********
+2025-06-29 22:56:05,178 [main] INFO inetBankingV2 - *********Opening URL**********
+2025-06-29 22:56:07,054 [main] INFO inetBankingV2 - *********Providing Login details**********
+2025-06-29 22:56:07,188 [main] INFO inetBankingV2 - *********Started Login Process**********
+2025-06-29 22:56:07,834 [main] INFO inetBankingV2 - *********Login passed**********
+2025-06-29 22:56:07,834 [main] INFO inetBankingV2 - *********Closing browser**********
+2025-06-29 22:56:07,925 [main] INFO inetBankingV2 - *********Launching browser**********
+2025-06-29 22:56:08,593 [main] INFO inetBankingV2 - *********Opening URL**********
+2025-06-29 22:56:10,536 [main] INFO inetBankingV2 - *********Providing Login details**********
+2025-06-29 22:56:10,665 [main] INFO inetBankingV2 - *********Started Login Process**********
+2025-06-29 22:56:10,701 [main] INFO inetBankingV2 - *********Login passed**********
+2025-06-29 22:56:10,702 [main] INFO inetBankingV2 - *********Closing browser**********
+2025-06-29 22:56:50,277 [main] INFO inetBankingV2 - *********Launching browser**********
+2025-06-29 22:56:51,194 [main] INFO inetBankingV2 - *********Opening URL**********
+2025-06-29 22:56:53,163 [main] INFO inetBankingV2 - *********Providing Login details**********
+2025-06-29 22:56:53,293 [main] INFO inetBankingV2 - *********Started Login Process**********
+2025-06-29 22:56:53,334 [main] INFO inetBankingV2 - *********Login passed**********
+2025-06-29 22:56:57,351 [main] INFO inetBankingV2 - *********Adding New Customer**********
+2025-06-29 22:56:57,351 [main] INFO inetBankingV2 - *********Providing customer details**********
+2025-06-29 22:57:02,710 [main] INFO inetBankingV2 - *********Submitting customer details**********
+2025-06-29 22:57:06,496 [main] INFO inetBankingV2 - *********Closing browser**********
+2025-06-29 22:57:06,594 [main] INFO inetBankingV2 - *********Launching browser**********
+2025-06-29 22:57:07,226 [main] INFO inetBankingV2 - *********Opening URL**********
+2025-06-29 22:57:09,055 [main] INFO inetBankingV2 - *********Providing Login details**********
+2025-06-29 22:57:09,185 [main] INFO inetBankingV2 - *********Started Login Process**********
+2025-06-29 22:57:09,896 [main] INFO inetBankingV2 - *********Login passed**********
+2025-06-29 22:57:10,805 [main] INFO inetBankingV2 - *********Checking already registered customer**********
+2025-06-29 22:57:10,806 [main] INFO inetBankingV2 - *********Providing a valid customer login details**********
+2025-06-29 22:57:10,885 [main] INFO inetBankingV2 - *********Submitting an existing customer details**********
+2025-06-29 22:57:10,921 [main] INFO inetBankingV2 - *********Confirmed that the costumer is already registered**********
+2025-06-29 22:57:11,806 [main] INFO inetBankingV2 - *********Closing browser**********
+2025-06-29 22:57:11,897 [main] INFO inetBankingV2 - *********Launching browser**********
+2025-06-29 22:57:12,524 [main] INFO inetBankingV2 - *********Opening URL**********
+2025-06-29 22:57:14,520 [main] INFO inetBankingV2 - *********Providing Login details**********
+2025-06-29 22:57:14,648 [main] INFO inetBankingV2 - *********Started Login Process**********
+2025-06-29 22:57:15,459 [main] INFO inetBankingV2 - *********Login passed**********
+2025-06-29 22:57:15,460 [main] INFO inetBankingV2 - *********Closing browser**********
+2025-06-29 22:57:15,549 [main] INFO inetBankingV2 - *********Launching browser**********
+2025-06-29 22:57:16,190 [main] INFO inetBankingV2 - *********Opening URL**********
+2025-06-29 22:57:18,300 [main] INFO inetBankingV2 - *********Providing Login details**********
+2025-06-29 22:57:18,427 [main] INFO inetBankingV2 - *********Started Login Process**********
+2025-06-29 22:57:19,245 [main] INFO inetBankingV2 - *********Login passed**********
+2025-06-29 22:57:19,246 [main] INFO inetBankingV2 - *********Closing browser**********
+2025-06-29 22:57:19,332 [main] INFO inetBankingV2 - *********Launching browser**********
+2025-06-29 22:57:19,929 [main] INFO inetBankingV2 - *********Opening URL**********
+2025-06-29 22:57:21,803 [main] INFO inetBankingV2 - *********Providing Login details**********
+2025-06-29 22:57:21,934 [main] INFO inetBankingV2 - *********Started Login Process**********
+2025-06-29 23:19:59,193 [main] INFO inetBankingV2 - *********Launching browser**********
+2025-06-29 23:19:59,206 [main] INFO inetBankingV2 - *********Opening URL**********
+2025-06-29 23:20:01,242 [main] INFO inetBankingV2 - *********Providing Login details**********
+2025-06-29 23:20:01,382 [main] INFO inetBankingV2 - *********Started Login Process**********
+2025-06-29 23:20:02,712 [main] INFO inetBankingV2 - *********Login passed**********
+2025-06-29 23:20:06,258 [main] INFO inetBankingV2 - *********Adding New Customer**********
+2025-06-29 23:20:06,259 [main] INFO inetBankingV2 - *********Providing customer details**********
+2025-06-29 23:20:11,634 [main] INFO inetBankingV2 - *********Submitting customer details**********
+2025-06-29 23:20:14,981 [main] INFO inetBankingV2 - *********Closing browser**********
+2025-06-29 23:20:15,727 [main] INFO inetBankingV2 - *********Launching browser**********
+2025-06-29 23:20:15,729 [main] INFO inetBankingV2 - *********Opening URL**********
+2025-06-29 23:20:17,707 [main] INFO inetBankingV2 - *********Providing Login details**********
+2025-06-29 23:20:17,839 [main] INFO inetBankingV2 - *********Started Login Process**********
+2025-06-29 23:20:18,487 [main] INFO inetBankingV2 - *********Login passed**********
+2025-06-29 23:20:19,993 [main] INFO inetBankingV2 - *********Checking already registered customer**********
+2025-06-29 23:20:19,993 [main] INFO inetBankingV2 - *********Providing a valid customer login details**********
+2025-06-29 23:20:20,078 [main] INFO inetBankingV2 - *********Submitting an existing customer details**********
+2025-06-29 23:20:20,112 [main] INFO inetBankingV2 - *********Confirmed that the costumer is already registered**********
+2025-06-29 23:20:21,065 [main] INFO inetBankingV2 - *********Closing browser**********
+2025-06-29 23:20:21,743 [main] INFO inetBankingV2 - *********Launching browser**********
+2025-06-29 23:20:21,745 [main] INFO inetBankingV2 - *********Opening URL**********
+2025-06-29 23:20:23,757 [main] INFO inetBankingV2 - *********Providing Login details**********
+2025-06-29 23:20:23,888 [main] INFO inetBankingV2 - *********Started Login Process**********
+2025-06-29 23:20:24,526 [main] INFO inetBankingV2 - *********Login passed**********
+2025-06-29 23:20:24,527 [main] INFO inetBankingV2 - *********Closing browser**********
+2025-06-29 23:20:25,275 [main] INFO inetBankingV2 - *********Launching browser**********
+2025-06-29 23:20:25,279 [main] INFO inetBankingV2 - *********Opening URL**********
+2025-06-29 23:20:27,207 [main] INFO inetBankingV2 - *********Providing Login details**********
+2025-06-29 23:20:27,338 [main] INFO inetBankingV2 - *********Started Login Process**********
+2025-06-29 23:20:28,157 [main] INFO inetBankingV2 - *********Login passed**********
+2025-06-29 23:20:28,158 [main] INFO inetBankingV2 - *********Closing browser**********
+2025-06-29 23:20:28,859 [main] INFO inetBankingV2 - *********Launching browser**********
+2025-06-29 23:20:28,862 [main] INFO inetBankingV2 - *********Opening URL**********
+2025-06-29 23:20:30,656 [main] INFO inetBankingV2 - *********Providing Login details**********
+2025-06-29 23:20:30,774 [main] INFO inetBankingV2 - *********Started Login Process**********
+2025-06-29 23:39:12,220 [main] INFO inetBankingV2 - *********Launching browser**********
+2025-06-29 23:39:12,234 [main] INFO inetBankingV2 - *********Opening URL**********
+2025-06-29 23:39:15,178 [main] INFO inetBankingV2 - *********Providing Login details**********
+2025-06-29 23:39:15,277 [main] INFO inetBankingV2 - *********Started Login Process**********
+2025-06-29 23:39:16,464 [main] INFO inetBankingV2 - *********Login passed**********
+2025-06-29 23:39:21,327 [main] INFO inetBankingV2 - *********Launching browser**********
+2025-06-29 23:39:21,330 [main] INFO inetBankingV2 - *********Opening URL**********
+2025-06-29 23:39:24,175 [main] INFO inetBankingV2 - *********Providing Login details**********
+2025-06-29 23:39:24,262 [main] INFO inetBankingV2 - *********Started Login Process**********
+2025-06-29 23:39:26,163 [main] INFO inetBankingV2 - *********Login passed**********
+2025-06-29 23:39:27,626 [main] INFO inetBankingV2 - *********Checking already registered customer**********
+2025-06-29 23:39:27,627 [main] INFO inetBankingV2 - *********Providing a valid customer login details**********
+2025-06-29 23:39:27,664 [main] INFO inetBankingV2 - *********Submitting an existing customer details**********
+2025-06-29 23:39:28,727 [main] INFO inetBankingV2 - *********Confirmed that the costumer is already registered**********
+2025-06-29 23:39:28,744 [main] INFO inetBankingV2 - *********Closing browser**********
+2025-06-29 23:39:30,563 [main] INFO inetBankingV2 - *********Launching browser**********
+2025-06-29 23:39:30,564 [main] INFO inetBankingV2 - *********Opening URL**********
+2025-06-29 23:39:32,909 [main] INFO inetBankingV2 - *********Providing Login details**********
+2025-06-29 23:39:32,994 [main] INFO inetBankingV2 - *********Started Login Process**********
+2025-06-29 23:39:33,879 [main] INFO inetBankingV2 - *********Login passed**********
+2025-06-29 23:39:33,880 [main] INFO inetBankingV2 - *********Closing browser**********
+2025-06-29 23:39:35,647 [main] INFO inetBankingV2 - *********Launching browser**********
+2025-06-29 23:39:35,648 [main] INFO inetBankingV2 - *********Opening URL**********
+2025-06-29 23:39:38,091 [main] INFO inetBankingV2 - *********Providing Login details**********
+2025-06-29 23:39:38,177 [main] INFO inetBankingV2 - *********Started Login Process**********
+2025-06-29 23:39:39,291 [main] INFO inetBankingV2 - *********Login passed**********
+2025-06-29 23:39:39,292 [main] INFO inetBankingV2 - *********Closing browser**********
+2025-06-29 23:39:41,113 [main] INFO inetBankingV2 - *********Launching browser**********
+2025-06-29 23:39:41,114 [main] INFO inetBankingV2 - *********Opening URL**********
+2025-06-29 23:39:43,674 [main] INFO inetBankingV2 - *********Providing Login details**********
+2025-06-29 23:39:43,758 [main] INFO inetBankingV2 - *********Started Login Process**********
+2025-06-29 23:40:23,694 [main] INFO inetBankingV2 - *********Launching browser**********
+2025-06-29 23:40:23,705 [main] INFO inetBankingV2 - *********Opening URL**********
+2025-06-29 23:40:26,296 [main] INFO inetBankingV2 - *********Providing Login details**********
+2025-06-29 23:40:26,387 [main] INFO inetBankingV2 - *********Started Login Process**********
+2025-06-29 23:40:27,498 [main] INFO inetBankingV2 - *********Login passed**********
+2025-06-29 23:40:31,915 [main] INFO inetBankingV2 - *********Launching browser**********
+2025-06-29 23:40:31,917 [main] INFO inetBankingV2 - *********Opening URL**********
+2025-06-29 23:40:34,559 [main] INFO inetBankingV2 - *********Providing Login details**********
+2025-06-29 23:40:34,645 [main] INFO inetBankingV2 - *********Started Login Process**********
+2025-06-29 23:40:35,673 [main] INFO inetBankingV2 - *********Login passed**********
+2025-06-29 23:40:37,390 [main] INFO inetBankingV2 - *********Checking already registered customer**********
+2025-06-29 23:40:37,390 [main] INFO inetBankingV2 - *********Providing a valid customer login details**********
+2025-06-29 23:40:37,416 [main] INFO inetBankingV2 - *********Submitting an existing customer details**********
+2025-06-29 23:40:38,545 [main] INFO inetBankingV2 - *********Confirmed that the costumer is already registered**********
+2025-06-29 23:40:38,566 [main] INFO inetBankingV2 - *********Closing browser**********
+2025-06-29 23:40:40,363 [main] INFO inetBankingV2 - *********Launching browser**********
+2025-06-29 23:40:40,364 [main] INFO inetBankingV2 - *********Opening URL**********
+2025-06-29 23:40:42,391 [main] INFO inetBankingV2 - *********Providing Login details**********
+2025-06-29 23:40:42,466 [main] INFO inetBankingV2 - *********Started Login Process**********
+2025-06-29 23:40:43,557 [main] INFO inetBankingV2 - *********Login passed**********
+2025-06-29 23:40:43,558 [main] INFO inetBankingV2 - *********Closing browser**********
+2025-06-29 23:40:45,344 [main] INFO inetBankingV2 - *********Launching browser**********
+2025-06-29 23:40:45,347 [main] INFO inetBankingV2 - *********Opening URL**********
+2025-06-29 23:40:48,158 [main] INFO inetBankingV2 - *********Providing Login details**********
+2025-06-29 23:40:48,243 [main] INFO inetBankingV2 - *********Started Login Process**********
+2025-06-29 23:40:49,094 [main] INFO inetBankingV2 - *********Login passed**********
+2025-06-29 23:40:49,095 [main] INFO inetBankingV2 - *********Closing browser**********
+2025-06-29 23:40:50,837 [main] INFO inetBankingV2 - *********Launching browser**********
+2025-06-29 23:40:50,838 [main] INFO inetBankingV2 - *********Opening URL**********
+2025-06-29 23:40:53,071 [main] INFO inetBankingV2 - *********Providing Login details**********
+2025-06-29 23:40:53,133 [main] INFO inetBankingV2 - *********Started Login Process**********
+2025-06-29 23:41:20,582 [main] INFO inetBankingV2 - *********Launching browser**********
+2025-06-29 23:41:20,593 [main] INFO inetBankingV2 - *********Opening URL**********
+2025-06-29 23:41:22,629 [main] INFO inetBankingV2 - *********Providing Login details**********
+2025-06-29 23:41:22,771 [main] INFO inetBankingV2 - *********Started Login Process**********
+2025-06-29 23:41:23,605 [main] INFO inetBankingV2 - *********Login passed**********
+2025-06-29 23:41:27,019 [main] INFO inetBankingV2 - *********Adding New Customer**********
+2025-06-29 23:41:27,020 [main] INFO inetBankingV2 - *********Providing customer details**********
+2025-06-29 23:41:32,346 [main] INFO inetBankingV2 - *********Submitting customer details**********
+2025-06-29 23:41:35,656 [main] INFO inetBankingV2 - *********Closing browser**********
+2025-06-29 23:41:36,407 [main] INFO inetBankingV2 - *********Launching browser**********
+2025-06-29 23:41:36,409 [main] INFO inetBankingV2 - *********Opening URL**********
+2025-06-29 23:41:38,015 [main] INFO inetBankingV2 - *********Providing Login details**********
+2025-06-29 23:41:38,145 [main] INFO inetBankingV2 - *********Started Login Process**********
+2025-06-29 23:41:38,808 [main] INFO inetBankingV2 - *********Login passed**********
+2025-06-29 23:41:39,598 [main] INFO inetBankingV2 - *********Checking already registered customer**********
+2025-06-29 23:41:39,598 [main] INFO inetBankingV2 - *********Providing a valid customer login details**********
+2025-06-29 23:41:39,664 [main] INFO inetBankingV2 - *********Submitting an existing customer details**********
+2025-06-29 23:41:39,698 [main] INFO inetBankingV2 - *********Confirmed that the costumer is already registered**********
+2025-06-29 23:41:41,022 [main] INFO inetBankingV2 - *********Closing browser**********
+2025-06-29 23:41:41,750 [main] INFO inetBankingV2 - *********Launching browser**********
+2025-06-29 23:41:41,752 [main] INFO inetBankingV2 - *********Opening URL**********
+2025-06-29 23:41:43,612 [main] INFO inetBankingV2 - *********Providing Login details**********
+2025-06-29 23:41:43,738 [main] INFO inetBankingV2 - *********Started Login Process**********
+2025-06-29 23:41:45,420 [main] INFO inetBankingV2 - *********Login passed**********
+2025-06-29 23:41:45,421 [main] INFO inetBankingV2 - *********Closing browser**********
+2025-06-29 23:41:46,114 [main] INFO inetBankingV2 - *********Launching browser**********
+2025-06-29 23:41:46,115 [main] INFO inetBankingV2 - *********Opening URL**********
+2025-06-29 23:41:48,011 [main] INFO inetBankingV2 - *********Providing Login details**********
+2025-06-29 23:41:48,141 [main] INFO inetBankingV2 - *********Started Login Process**********
+2025-06-29 23:41:48,787 [main] INFO inetBankingV2 - *********Login passed**********
+2025-06-29 23:41:48,788 [main] INFO inetBankingV2 - *********Closing browser**********
+2025-06-29 23:41:49,507 [main] INFO inetBankingV2 - *********Launching browser**********
+2025-06-29 23:41:49,508 [main] INFO inetBankingV2 - *********Opening URL**********
+2025-06-29 23:41:51,528 [main] INFO inetBankingV2 - *********Providing Login details**********
+2025-06-29 23:41:51,653 [main] INFO inetBankingV2 - *********Started Login Process**********
+2025-06-29 23:41:51,690 [main] INFO inetBankingV2 - *********Login passed**********
+2025-06-29 23:41:51,691 [main] INFO inetBankingV2 - *********Closing browser**********
+2025-06-29 23:42:20,681 [main] INFO inetBankingV2 - *********Launching browser**********
+2025-06-29 23:42:20,691 [main] INFO inetBankingV2 - *********Opening URL**********
+2025-06-29 23:42:22,696 [main] INFO inetBankingV2 - *********Providing Login details**********
+2025-06-29 23:42:22,830 [main] INFO inetBankingV2 - *********Started Login Process**********
+2025-06-29 23:42:22,867 [main] INFO inetBankingV2 - *********Login passed**********
+2025-06-29 23:42:26,287 [main] INFO inetBankingV2 - *********Adding New Customer**********
+2025-06-29 23:42:26,287 [main] INFO inetBankingV2 - *********Providing customer details**********
+2025-06-29 23:42:31,620 [main] INFO inetBankingV2 - *********Submitting customer details**********
+2025-06-29 23:42:34,937 [main] INFO inetBankingV2 - *********Closing browser**********
+2025-06-29 23:42:35,672 [main] INFO inetBankingV2 - *********Launching browser**********
+2025-06-29 23:42:35,674 [main] INFO inetBankingV2 - *********Opening URL**********
+2025-06-29 23:42:37,377 [main] INFO inetBankingV2 - *********Providing Login details**********
+2025-06-29 23:42:37,508 [main] INFO inetBankingV2 - *********Started Login Process**********
+2025-06-29 23:42:38,214 [main] INFO inetBankingV2 - *********Login passed**********
+2025-06-29 23:42:39,121 [main] INFO inetBankingV2 - *********Checking already registered customer**********
+2025-06-29 23:42:39,121 [main] INFO inetBankingV2 - *********Providing a valid customer login details**********
+2025-06-29 23:42:39,199 [main] INFO inetBankingV2 - *********Submitting an existing customer details**********
+2025-06-29 23:42:39,233 [main] INFO inetBankingV2 - *********Confirmed that the costumer is already registered**********
+2025-06-29 23:42:40,083 [main] INFO inetBankingV2 - *********Closing browser**********
+2025-06-29 23:42:40,789 [main] INFO inetBankingV2 - *********Launching browser**********
+2025-06-29 23:42:40,790 [main] INFO inetBankingV2 - *********Opening URL**********
+2025-06-29 23:42:42,692 [main] INFO inetBankingV2 - *********Providing Login details**********
+2025-06-29 23:42:42,827 [main] INFO inetBankingV2 - *********Started Login Process**********
+2025-06-29 23:42:42,864 [main] INFO inetBankingV2 - *********Login passed**********
+2025-06-29 23:42:42,864 [main] INFO inetBankingV2 - *********Closing browser**********
+2025-06-29 23:42:43,626 [main] INFO inetBankingV2 - *********Launching browser**********
+2025-06-29 23:42:43,628 [main] INFO inetBankingV2 - *********Opening URL**********
+2025-06-29 23:42:45,416 [main] INFO inetBankingV2 - *********Providing Login details**********
+2025-06-29 23:42:45,540 [main] INFO inetBankingV2 - *********Started Login Process**********
+2025-06-29 23:42:46,201 [main] INFO inetBankingV2 - *********Login passed**********
+2025-06-29 23:42:46,202 [main] INFO inetBankingV2 - *********Closing browser**********
+2025-06-29 23:42:46,894 [main] INFO inetBankingV2 - *********Launching browser**********
+2025-06-29 23:42:46,895 [main] INFO inetBankingV2 - *********Opening URL**********
+2025-06-29 23:42:48,875 [main] INFO inetBankingV2 - *********Providing Login details**********
+2025-06-29 23:42:49,002 [main] INFO inetBankingV2 - *********Started Login Process**********
+2025-06-29 23:50:29,078 [main] INFO inetBankingV2 - *********Launching browser**********
+2025-06-29 23:50:29,090 [main] INFO inetBankingV2 - *********Opening URL**********
+2025-06-29 23:50:31,244 [main] INFO inetBankingV2 - *********Providing Login details**********
+2025-06-29 23:50:31,391 [main] INFO inetBankingV2 - *********Started Login Process**********
+2025-06-29 23:50:32,049 [main] INFO inetBankingV2 - *********Login passed**********
+2025-06-29 23:50:35,723 [main] INFO inetBankingV2 - *********Adding New Customer**********
+2025-06-29 23:50:35,723 [main] INFO inetBankingV2 - *********Providing customer details**********
+2025-06-29 23:50:41,046 [main] INFO inetBankingV2 - *********Submitting customer details**********
+2025-06-29 23:50:44,379 [main] INFO inetBankingV2 - *********Closing browser**********
+2025-06-29 23:50:45,127 [main] INFO inetBankingV2 - *********Launching browser**********
+2025-06-29 23:50:45,128 [main] INFO inetBankingV2 - *********Opening URL**********
+2025-06-29 23:50:47,042 [main] INFO inetBankingV2 - *********Providing Login details**********
+2025-06-29 23:50:47,167 [main] INFO inetBankingV2 - *********Started Login Process**********
+2025-06-29 23:50:47,996 [main] INFO inetBankingV2 - *********Login passed**********
+2025-06-29 23:50:47,997 [main] INFO inetBankingV2 - *********Closing browser**********
+2025-06-29 23:51:56,893 [main] INFO inetBankingV2 - *********Launching browser**********
+2025-06-29 23:51:56,905 [main] INFO inetBankingV2 - *********Opening URL**********
+2025-06-29 23:51:58,648 [main] INFO inetBankingV2 - *********Providing Login details**********
+2025-06-29 23:51:58,782 [main] INFO inetBankingV2 - *********Started Login Process**********
+2025-06-29 23:51:58,820 [main] INFO inetBankingV2 - *********Login passed**********
+2025-06-29 23:52:02,381 [main] INFO inetBankingV2 - *********Adding New Customer**********
+2025-06-29 23:52:02,381 [main] INFO inetBankingV2 - *********Providing customer details**********
+2025-06-29 23:52:07,703 [main] INFO inetBankingV2 - *********Submitting customer details**********
+2025-06-29 23:52:11,666 [main] INFO inetBankingV2 - *********Closing browser**********
+2025-06-29 23:52:12,411 [main] INFO inetBankingV2 - *********Launching browser**********
+2025-06-29 23:52:12,415 [main] INFO inetBankingV2 - *********Opening URL**********
+2025-06-29 23:52:14,573 [main] INFO inetBankingV2 - *********Providing Login details**********
+2025-06-29 23:52:14,691 [main] INFO inetBankingV2 - *********Started Login Process**********
+2025-06-29 23:52:15,333 [main] INFO inetBankingV2 - *********Login passed**********
+2025-06-29 23:52:15,334 [main] INFO inetBankingV2 - *********Closing browser**********
+2025-06-29 23:57:31,163 [main] INFO inetBankingV2 - *********Launching browser**********
+2025-06-29 23:57:31,179 [main] INFO inetBankingV2 - *********Opening URL**********
+2025-06-29 23:57:33,195 [main] INFO inetBankingV2 - *********Providing Login details**********
+2025-06-29 23:57:33,330 [main] INFO inetBankingV2 - *********Started Login Process**********
+2025-06-29 23:57:33,978 [main] INFO inetBankingV2 - *********Login passed**********
+2025-06-29 23:57:37,386 [main] INFO inetBankingV2 - *********Adding New Customer**********
+2025-06-29 23:57:37,386 [main] INFO inetBankingV2 - *********Providing customer details**********
+2025-06-29 23:57:42,782 [main] INFO inetBankingV2 - *********Submitting customer details**********
+2025-06-29 23:57:45,883 [main] INFO inetBankingV2 - *********Closing browser**********
+2025-06-29 23:57:46,682 [main] INFO inetBankingV2 - *********Launching browser**********
+2025-06-29 23:57:46,683 [main] INFO inetBankingV2 - *********Opening URL**********
+2025-06-29 23:57:48,449 [main] INFO inetBankingV2 - *********Providing Login details**********
+2025-06-29 23:57:48,578 [main] INFO inetBankingV2 - *********Started Login Process**********
+2025-06-29 23:57:48,617 [main] INFO inetBankingV2 - *********Login passed**********
+2025-06-29 23:57:49,959 [main] INFO inetBankingV2 - *********Launching browser**********
+2025-06-29 23:57:49,963 [main] INFO inetBankingV2 - *********Opening URL**********
+2025-06-29 23:57:52,011 [main] INFO inetBankingV2 - *********Providing Login details**********
+2025-06-29 23:57:52,141 [main] INFO inetBankingV2 - *********Started Login Process**********
+2025-06-29 23:57:52,958 [main] INFO inetBankingV2 - *********Login passed**********
+2025-06-29 23:57:52,961 [main] INFO inetBankingV2 - *********Closing browser**********
+2025-06-29 23:57:53,712 [main] INFO inetBankingV2 - *********Launching browser**********
+2025-06-29 23:57:53,715 [main] INFO inetBankingV2 - *********Opening URL**********
+2025-06-29 23:57:55,841 [main] INFO inetBankingV2 - *********Providing Login details**********
+2025-06-29 23:57:55,961 [main] INFO inetBankingV2 - *********Started Login Process**********
+2025-06-29 23:57:56,710 [main] INFO inetBankingV2 - *********Login passed**********
+2025-06-29 23:57:56,711 [main] INFO inetBankingV2 - *********Closing browser**********
+2025-06-29 23:57:57,385 [main] INFO inetBankingV2 - *********Launching browser**********
+2025-06-29 23:57:57,388 [main] INFO inetBankingV2 - *********Opening URL**********
+2025-06-29 23:57:59,458 [main] INFO inetBankingV2 - *********Providing Login details**********
+2025-06-29 23:57:59,585 [main] INFO inetBankingV2 - *********Started Login Process**********
+2025-06-29 23:57:59,624 [main] INFO inetBankingV2 - *********Login passed**********
+2025-06-29 23:57:59,625 [main] INFO inetBankingV2 - *********Closing browser**********
+2025-06-29 23:58:45,528 [main] INFO inetBankingV2 - *********Launching browser**********
+2025-06-29 23:58:45,538 [main] INFO inetBankingV2 - *********Opening URL**********
+2025-06-29 23:58:47,561 [main] INFO inetBankingV2 - *********Providing Login details**********
+2025-06-29 23:58:47,691 [main] INFO inetBankingV2 - *********Started Login Process**********
+2025-06-29 23:58:48,483 [main] INFO inetBankingV2 - *********Login passed**********
+2025-06-29 23:58:51,903 [main] INFO inetBankingV2 - *********Adding New Customer**********
+2025-06-29 23:58:51,903 [main] INFO inetBankingV2 - *********Providing customer details**********
+2025-06-29 23:58:57,217 [main] INFO inetBankingV2 - *********Submitting customer details**********
+2025-06-29 23:59:00,568 [main] INFO inetBankingV2 - *********Closing browser**********
+2025-06-29 23:59:01,298 [main] INFO inetBankingV2 - *********Launching browser**********
+2025-06-29 23:59:01,300 [main] INFO inetBankingV2 - *********Opening URL**********
+2025-06-29 23:59:04,080 [main] INFO inetBankingV2 - *********Providing Login details**********
+2025-06-29 23:59:04,209 [main] INFO inetBankingV2 - *********Started Login Process**********
+2025-06-29 23:59:04,904 [main] INFO inetBankingV2 - *********Login passed**********
+2025-06-29 23:59:05,664 [main] INFO inetBankingV2 - *********Checking already registered customer**********
+2025-06-29 23:59:05,664 [main] INFO inetBankingV2 - *********Providing a valid customer login details**********
+2025-06-29 23:59:05,727 [main] INFO inetBankingV2 - *********Submitting an existing customer details**********
+2025-06-29 23:59:06,731 [main] INFO inetBankingV2 - *********Confirmed that the costumer is already registered**********
+2025-06-29 23:59:06,769 [main] INFO inetBankingV2 - *********Closing browser**********
+2025-06-29 23:59:07,465 [main] INFO inetBankingV2 - *********Launching browser**********
+2025-06-29 23:59:07,468 [main] INFO inetBankingV2 - *********Opening URL**********
+2025-06-29 23:59:09,344 [main] INFO inetBankingV2 - *********Providing Login details**********
+2025-06-29 23:59:09,472 [main] INFO inetBankingV2 - *********Started Login Process**********
+2025-06-29 23:59:09,509 [main] INFO inetBankingV2 - *********Login passed**********
+2025-06-29 23:59:09,509 [main] INFO inetBankingV2 - *********Closing browser**********
+2025-06-29 23:59:10,239 [main] INFO inetBankingV2 - *********Launching browser**********
+2025-06-29 23:59:10,243 [main] INFO inetBankingV2 - *********Opening URL**********
+2025-06-29 23:59:12,128 [main] INFO inetBankingV2 - *********Providing Login details**********
+2025-06-29 23:59:12,259 [main] INFO inetBankingV2 - *********Started Login Process**********
+2025-06-29 23:59:13,049 [main] INFO inetBankingV2 - *********Login passed**********
+2025-06-29 23:59:13,050 [main] INFO inetBankingV2 - *********Closing browser**********
+2025-06-29 23:59:13,730 [main] INFO inetBankingV2 - *********Launching browser**********
+2025-06-29 23:59:13,732 [main] INFO inetBankingV2 - *********Opening URL**********
+2025-06-29 23:59:15,611 [main] INFO inetBankingV2 - *********Providing Login details**********
+2025-06-29 23:59:15,738 [main] INFO inetBankingV2 - *********Started Login Process**********
+2025-06-29 23:59:15,974 [main] INFO inetBankingV2 - *********Login passed**********
+2025-06-29 23:59:15,977 [main] INFO inetBankingV2 - *********Closing browser**********
+2025-06-29 23:59:57,693 [main] INFO inetBankingV2 - *********Launching browser**********
+2025-06-29 23:59:57,704 [main] INFO inetBankingV2 - *********Opening URL**********
+2025-06-29 23:59:59,424 [main] INFO inetBankingV2 - *********Providing Login details**********
+2025-06-29 23:59:59,560 [main] INFO inetBankingV2 - *********Started Login Process**********
+2025-06-30 00:00:00,214 [main] INFO inetBankingV2 - *********Login passed**********
+2025-06-30 00:00:04,104 [main] INFO inetBankingV2 - *********Adding New Customer**********
+2025-06-30 00:00:04,104 [main] INFO inetBankingV2 - *********Providing customer details**********
+2025-06-30 00:00:09,416 [main] INFO inetBankingV2 - *********Submitting customer details**********
+2025-06-30 00:00:12,758 [main] INFO inetBankingV2 - *********Closing browser**********
+2025-06-30 00:00:13,441 [main] INFO inetBankingV2 - *********Launching browser**********
+2025-06-30 00:00:13,442 [main] INFO inetBankingV2 - *********Opening URL**********
+2025-06-30 00:00:15,530 [main] INFO inetBankingV2 - *********Providing Login details**********
+2025-06-30 00:00:15,659 [main] INFO inetBankingV2 - *********Started Login Process**********
+2025-06-30 00:00:16,324 [main] INFO inetBankingV2 - *********Login passed**********
+2025-06-30 00:00:17,628 [main] INFO inetBankingV2 - *********Checking already registered customer**********
+2025-06-30 00:00:17,629 [main] INFO inetBankingV2 - *********Providing a valid customer login details**********
+2025-06-30 00:00:17,704 [main] INFO inetBankingV2 - *********Submitting an existing customer details**********
+2025-06-30 00:00:17,740 [main] INFO inetBankingV2 - *********Confirmed that the costumer is already registered**********
+2025-06-30 00:00:18,564 [main] INFO inetBankingV2 - *********Closing browser**********
+2025-06-30 00:00:19,291 [main] INFO inetBankingV2 - *********Launching browser**********
+2025-06-30 00:00:19,292 [main] INFO inetBankingV2 - *********Opening URL**********
+2025-06-30 00:00:21,211 [main] INFO inetBankingV2 - *********Providing Login details**********
+2025-06-30 00:00:21,342 [main] INFO inetBankingV2 - *********Started Login Process**********
+2025-06-30 00:00:22,020 [main] INFO inetBankingV2 - *********Login passed**********
+2025-06-30 00:00:22,021 [main] INFO inetBankingV2 - *********Closing browser**********
+2025-06-30 00:00:22,714 [main] INFO inetBankingV2 - *********Launching browser**********
+2025-06-30 00:00:22,716 [main] INFO inetBankingV2 - *********Opening URL**********
+2025-06-30 00:00:24,584 [main] INFO inetBankingV2 - *********Providing Login details**********
+2025-06-30 00:00:24,712 [main] INFO inetBankingV2 - *********Started Login Process**********
+2025-06-30 00:00:24,751 [main] INFO inetBankingV2 - *********Login passed**********
+2025-06-30 00:00:24,751 [main] INFO inetBankingV2 - *********Closing browser**********
+2025-06-30 00:00:25,481 [main] INFO inetBankingV2 - *********Launching browser**********
+2025-06-30 00:00:25,482 [main] INFO inetBankingV2 - *********Opening URL**********
+2025-06-30 00:00:27,643 [main] INFO inetBankingV2 - *********Providing Login details**********
+2025-06-30 00:00:27,773 [main] INFO inetBankingV2 - *********Started Login Process**********
+2025-06-30 00:02:39,313 [main] INFO inetBankingV2 - *********Launching browser**********
+2025-06-30 00:02:39,324 [main] INFO inetBankingV2 - *********Opening URL**********
+2025-06-30 00:02:41,312 [main] INFO inetBankingV2 - *********Providing Login details**********
+2025-06-30 00:02:41,448 [main] INFO inetBankingV2 - *********Started Login Process**********
+2025-06-30 00:02:41,485 [main] INFO inetBankingV2 - *********Login passed**********
+2025-06-30 00:02:44,887 [main] INFO inetBankingV2 - *********Adding New Customer**********
+2025-06-30 00:02:44,888 [main] INFO inetBankingV2 - *********Providing customer details**********
+2025-06-30 00:02:50,232 [main] INFO inetBankingV2 - *********Submitting customer details**********
+2025-06-30 00:02:53,324 [main] INFO inetBankingV2 - *********Closing browser**********
+2025-06-30 00:02:54,081 [main] INFO inetBankingV2 - *********Launching browser**********
+2025-06-30 00:02:54,083 [main] INFO inetBankingV2 - *********Opening URL**********
+2025-06-30 00:02:56,129 [main] INFO inetBankingV2 - *********Providing Login details**********
+2025-06-30 00:02:56,258 [main] INFO inetBankingV2 - *********Started Login Process**********
+2025-06-30 00:02:56,902 [main] INFO inetBankingV2 - *********Login passed**********
+2025-06-30 00:02:57,656 [main] INFO inetBankingV2 - *********Checking already registered customer**********
+2025-06-30 00:02:57,657 [main] INFO inetBankingV2 - *********Providing a valid customer login details**********
+2025-06-30 00:02:57,720 [main] INFO inetBankingV2 - *********Submitting an existing customer details**********
+2025-06-30 00:02:57,758 [main] INFO inetBankingV2 - *********Confirmed that the costumer is already registered**********
+2025-06-30 00:02:58,668 [main] INFO inetBankingV2 - *********Closing browser**********
+2025-06-30 00:02:59,432 [main] INFO inetBankingV2 - *********Launching browser**********
+2025-06-30 00:02:59,433 [main] INFO inetBankingV2 - *********Opening URL**********
+2025-06-30 00:03:01,461 [main] INFO inetBankingV2 - *********Providing Login details**********
+2025-06-30 00:03:01,591 [main] INFO inetBankingV2 - *********Started Login Process**********
+2025-06-30 00:03:03,902 [main] INFO inetBankingV2 - *********Login passed**********
+2025-06-30 00:03:03,903 [main] INFO inetBankingV2 - *********Closing browser**********
+2025-06-30 00:03:04,629 [main] INFO inetBankingV2 - *********Launching browser**********
+2025-06-30 00:03:04,631 [main] INFO inetBankingV2 - *********Opening URL**********
+2025-06-30 00:03:06,528 [main] INFO inetBankingV2 - *********Providing Login details**********
+2025-06-30 00:03:06,659 [main] INFO inetBankingV2 - *********Started Login Process**********
+2025-06-30 00:03:07,301 [main] INFO inetBankingV2 - *********Login passed**********
+2025-06-30 00:03:07,302 [main] INFO inetBankingV2 - *********Closing browser**********
+2025-06-30 00:03:08,011 [main] INFO inetBankingV2 - *********Launching browser**********
+2025-06-30 00:03:08,014 [main] INFO inetBankingV2 - *********Opening URL**********
+2025-06-30 00:03:09,655 [main] INFO inetBankingV2 - *********Providing Login details**********
+2025-06-30 00:03:09,797 [main] INFO inetBankingV2 - *********Started Login Process**********
+2025-06-30 00:06:23,006 [main] INFO inetBankingV2 - *********Launching browser**********
+2025-06-30 00:06:23,018 [main] INFO inetBankingV2 - *********Opening URL**********
+2025-06-30 00:06:25,031 [main] INFO inetBankingV2 - *********Providing Login details**********
+2025-06-30 00:06:25,172 [main] INFO inetBankingV2 - *********Started Login Process**********
+2025-06-30 00:06:25,210 [main] INFO inetBankingV2 - *********Login passed**********
+2025-06-30 00:06:28,603 [main] INFO inetBankingV2 - *********Adding New Customer**********
+2025-06-30 00:06:28,604 [main] INFO inetBankingV2 - *********Providing customer details**********
+2025-06-30 00:06:33,974 [main] INFO inetBankingV2 - *********Submitting customer details**********
+2025-06-30 00:06:37,284 [main] INFO inetBankingV2 - *********Closing browser**********
+2025-06-30 00:06:38,032 [main] INFO inetBankingV2 - *********Launching browser**********
+2025-06-30 00:06:38,034 [main] INFO inetBankingV2 - *********Opening URL**********
+2025-06-30 00:06:39,720 [main] INFO inetBankingV2 - *********Providing Login details**********
+2025-06-30 00:06:39,855 [main] INFO inetBankingV2 - *********Started Login Process**********
+2025-06-30 00:06:40,558 [main] INFO inetBankingV2 - *********Login passed**********
+2025-06-30 00:06:41,304 [main] INFO inetBankingV2 - *********Checking already registered customer**********
+2025-06-30 00:06:41,304 [main] INFO inetBankingV2 - *********Providing a valid customer login details**********
+2025-06-30 00:06:41,366 [main] INFO inetBankingV2 - *********Submitting an existing customer details**********
+2025-06-30 00:06:41,400 [main] INFO inetBankingV2 - *********Confirmed that the costumer is already registered**********
+2025-06-30 00:06:42,302 [main] INFO inetBankingV2 - *********Closing browser**********
+2025-06-30 00:06:43,048 [main] INFO inetBankingV2 - *********Launching browser**********
+2025-06-30 00:06:43,050 [main] INFO inetBankingV2 - *********Opening URL**********
+2025-06-30 00:06:45,241 [main] INFO inetBankingV2 - *********Providing Login details**********
+2025-06-30 00:06:45,375 [main] INFO inetBankingV2 - *********Started Login Process**********
+2025-06-30 00:06:46,230 [main] INFO inetBankingV2 - *********Login passed**********
+2025-06-30 00:06:46,231 [main] INFO inetBankingV2 - *********Closing browser**********
+2025-06-30 00:06:46,967 [main] INFO inetBankingV2 - *********Launching browser**********
+2025-06-30 00:06:46,969 [main] INFO inetBankingV2 - *********Opening URL**********
+2025-06-30 00:06:49,064 [main] INFO inetBankingV2 - *********Providing Login details**********
+2025-06-30 00:06:49,189 [main] INFO inetBankingV2 - *********Started Login Process**********
+2025-06-30 00:06:50,012 [main] INFO inetBankingV2 - *********Login passed**********
+2025-06-30 00:06:50,013 [main] INFO inetBankingV2 - *********Closing browser**********
+2025-06-30 00:06:50,797 [main] INFO inetBankingV2 - *********Launching browser**********
+2025-06-30 00:06:50,798 [main] INFO inetBankingV2 - *********Opening URL**********
+2025-06-30 00:06:52,723 [main] INFO inetBankingV2 - *********Providing Login details**********
+2025-06-30 00:06:52,848 [main] INFO inetBankingV2 - *********Started Login Process**********
+2025-06-30 00:08:02,606 [main] INFO inetBankingV2 - *********Launching browser**********
+2025-06-30 00:08:02,616 [main] INFO inetBankingV2 - *********Opening URL**********
+2025-06-30 00:08:04,831 [main] INFO inetBankingV2 - *********Providing Login details**********
+2025-06-30 00:08:04,965 [main] INFO inetBankingV2 - *********Started Login Process**********
+2025-06-30 00:08:05,002 [main] INFO inetBankingV2 - *********Login passed**********
+2025-06-30 00:08:08,557 [main] INFO inetBankingV2 - *********Adding New Customer**********
+2025-06-30 00:08:08,557 [main] INFO inetBankingV2 - *********Providing customer details**********
+2025-06-30 00:08:13,933 [main] INFO inetBankingV2 - *********Submitting customer details**********
+2025-06-30 00:08:17,264 [main] INFO inetBankingV2 - *********Closing browser**********
+2025-06-30 00:08:18,016 [main] INFO inetBankingV2 - *********Launching browser**********
+2025-06-30 00:08:18,017 [main] INFO inetBankingV2 - *********Opening URL**********
+2025-06-30 00:08:20,779 [main] INFO inetBankingV2 - *********Providing Login details**********
+2025-06-30 00:08:20,910 [main] INFO inetBankingV2 - *********Started Login Process**********
+2025-06-30 00:08:21,575 [main] INFO inetBankingV2 - *********Login passed**********
+2025-06-30 00:08:22,999 [main] INFO inetBankingV2 - *********Checking already registered customer**********
+2025-06-30 00:08:23,000 [main] INFO inetBankingV2 - *********Providing a valid customer login details**********
+2025-06-30 00:08:23,078 [main] INFO inetBankingV2 - *********Submitting an existing customer details**********
+2025-06-30 00:08:23,953 [main] INFO inetBankingV2 - *********Confirmed that the costumer is already registered**********
+2025-06-30 00:08:23,993 [main] INFO inetBankingV2 - *********Closing browser**********
+2025-06-30 00:08:24,689 [main] INFO inetBankingV2 - *********Launching browser**********
+2025-06-30 00:08:24,690 [main] INFO inetBankingV2 - *********Opening URL**********
+2025-06-30 00:08:27,203 [main] INFO inetBankingV2 - *********Providing Login details**********
+2025-06-30 00:08:27,362 [main] INFO inetBankingV2 - *********Started Login Process**********
+2025-06-30 00:08:28,055 [main] INFO inetBankingV2 - *********Login passed**********
+2025-06-30 00:08:28,056 [main] INFO inetBankingV2 - *********Closing browser**********
+2025-06-30 00:08:28,779 [main] INFO inetBankingV2 - *********Launching browser**********
+2025-06-30 00:08:28,781 [main] INFO inetBankingV2 - *********Opening URL**********
+2025-06-30 00:08:30,630 [main] INFO inetBankingV2 - *********Providing Login details**********
+2025-06-30 00:08:30,752 [main] INFO inetBankingV2 - *********Started Login Process**********
+2025-06-30 00:08:30,787 [main] INFO inetBankingV2 - *********Login passed**********
+2025-06-30 00:08:30,788 [main] INFO inetBankingV2 - *********Closing browser**********
+2025-06-30 00:08:31,487 [main] INFO inetBankingV2 - *********Launching browser**********
+2025-06-30 00:08:31,489 [main] INFO inetBankingV2 - *********Opening URL**********
+2025-06-30 00:08:33,347 [main] INFO inetBankingV2 - *********Providing Login details**********
+2025-06-30 00:08:33,476 [main] INFO inetBankingV2 - *********Started Login Process**********
+2025-06-30 10:00:34,103 [main] INFO inetBankingV2 - *********Launching browser**********
+2025-06-30 10:00:34,117 [main] INFO inetBankingV2 - *********Opening URL**********
+2025-06-30 10:00:36,190 [main] INFO inetBankingV2 - *********Providing Login details**********
+2025-06-30 10:00:36,326 [main] INFO inetBankingV2 - *********Started Login Process**********
+2025-06-30 10:00:36,960 [main] INFO inetBankingV2 - *********Login passed**********
+2025-06-30 10:00:40,765 [main] INFO inetBankingV2 - *********Adding New Customer**********
+2025-06-30 10:00:40,766 [main] INFO inetBankingV2 - *********Providing customer details**********
+2025-06-30 10:00:46,134 [main] INFO inetBankingV2 - *********Submitting customer details**********
+2025-06-30 10:00:49,825 [main] INFO inetBankingV2 - *********Closing browser**********
+2025-06-30 10:00:50,576 [main] INFO inetBankingV2 - *********Launching browser**********
+2025-06-30 10:00:50,579 [main] INFO inetBankingV2 - *********Opening URL**********
+2025-06-30 10:00:52,620 [main] INFO inetBankingV2 - *********Providing Login details**********
+2025-06-30 10:00:52,753 [main] INFO inetBankingV2 - *********Started Login Process**********
+2025-06-30 10:00:53,411 [main] INFO inetBankingV2 - *********Login passed**********
+2025-06-30 10:00:54,765 [main] INFO inetBankingV2 - *********Checking already registered customer**********
+2025-06-30 10:00:54,765 [main] INFO inetBankingV2 - *********Providing a valid customer login details**********
+2025-06-30 10:00:54,841 [main] INFO inetBankingV2 - *********Submitting an existing customer details**********
+2025-06-30 10:00:54,875 [main] INFO inetBankingV2 - *********Confirmed that the costumer is already registered**********
+2025-06-30 10:00:55,863 [main] INFO inetBankingV2 - *********Closing browser**********
+2025-06-30 10:00:56,601 [main] INFO inetBankingV2 - *********Launching browser**********
+2025-06-30 10:00:56,601 [main] INFO inetBankingV2 - *********Opening URL**********
+2025-06-30 10:00:58,273 [main] INFO inetBankingV2 - *********Providing Login details**********
+2025-06-30 10:00:58,410 [main] INFO inetBankingV2 - *********Started Login Process**********
+2025-06-30 10:00:58,447 [main] INFO inetBankingV2 - *********Login passed**********
+2025-06-30 10:00:58,448 [main] INFO inetBankingV2 - *********Closing browser**********
+2025-06-30 10:00:59,117 [main] INFO inetBankingV2 - *********Launching browser**********
+2025-06-30 10:00:59,118 [main] INFO inetBankingV2 - *********Opening URL**********
+2025-06-30 10:01:00,745 [main] INFO inetBankingV2 - *********Providing Login details**********
+2025-06-30 10:01:00,891 [main] INFO inetBankingV2 - *********Started Login Process**********
+2025-06-30 10:01:00,928 [main] INFO inetBankingV2 - *********Login passed**********
+2025-06-30 10:01:00,928 [main] INFO inetBankingV2 - *********Closing browser**********
+2025-06-30 10:01:01,659 [main] INFO inetBankingV2 - *********Launching browser**********
+2025-06-30 10:01:01,661 [main] INFO inetBankingV2 - *********Opening URL**********
+2025-06-30 10:01:04,571 [main] INFO inetBankingV2 - *********Providing Login details**********
+2025-06-30 10:01:04,697 [main] INFO inetBankingV2 - *********Started Login Process**********
+2025-06-30 10:08:12,446 [main] INFO inetBankingV2 - *********Launching browser**********
+2025-06-30 10:08:12,458 [main] INFO inetBankingV2 - *********Opening URL**********
+2025-06-30 10:08:14,734 [main] INFO inetBankingV2 - *********Providing Login details**********
+2025-06-30 10:08:14,873 [main] INFO inetBankingV2 - *********Started Login Process**********
+2025-06-30 10:08:14,910 [main] INFO inetBankingV2 - *********Login passed**********
+2025-06-30 10:08:18,924 [main] INFO inetBankingV2 - *********Adding New Customer**********
+2025-06-30 10:08:18,925 [main] INFO inetBankingV2 - *********Providing customer details**********
+2025-06-30 10:08:24,292 [main] INFO inetBankingV2 - *********Submitting customer details**********
+2025-06-30 10:08:27,595 [main] INFO inetBankingV2 - *********Closing browser**********
+2025-06-30 10:08:28,361 [main] INFO inetBankingV2 - *********Launching browser**********
+2025-06-30 10:08:28,362 [main] INFO inetBankingV2 - *********Opening URL**********
+2025-06-30 10:08:32,309 [main] INFO inetBankingV2 - *********Providing Login details**********
+2025-06-30 10:08:32,475 [main] INFO inetBankingV2 - *********Started Login Process**********
+2025-06-30 10:08:32,512 [main] INFO inetBankingV2 - *********Login passed**********
+2025-06-30 10:08:34,177 [main] INFO inetBankingV2 - *********Launching browser**********
+2025-06-30 10:08:34,180 [main] INFO inetBankingV2 - *********Opening URL**********
+2025-06-30 10:08:36,008 [main] INFO inetBankingV2 - *********Providing Login details**********
+2025-06-30 10:08:36,144 [main] INFO inetBankingV2 - *********Started Login Process**********
+2025-06-30 10:08:36,799 [main] INFO inetBankingV2 - *********Login passed**********
+2025-06-30 10:08:36,800 [main] INFO inetBankingV2 - *********Closing browser**********
+2025-06-30 10:08:37,544 [main] INFO inetBankingV2 - *********Launching browser**********
+2025-06-30 10:08:37,545 [main] INFO inetBankingV2 - *********Opening URL**********
+2025-06-30 10:08:39,386 [main] INFO inetBankingV2 - *********Providing Login details**********
+2025-06-30 10:08:39,506 [main] INFO inetBankingV2 - *********Started Login Process**********
+2025-06-30 10:08:40,902 [main] INFO inetBankingV2 - *********Login passed**********
+2025-06-30 10:08:40,903 [main] INFO inetBankingV2 - *********Closing browser**********
+2025-06-30 10:08:41,644 [main] INFO inetBankingV2 - *********Launching browser**********
+2025-06-30 10:08:41,646 [main] INFO inetBankingV2 - *********Opening URL**********
+2025-06-30 10:08:45,004 [main] INFO inetBankingV2 - *********Providing Login details**********
+2025-06-30 10:08:45,137 [main] INFO inetBankingV2 - *********Started Login Process**********
+2025-06-30 10:14:45,345 [main] INFO inetBankingV2 - *********Launching browser**********
+2025-06-30 10:14:45,360 [main] INFO inetBankingV2 - *********Opening URL**********
+2025-06-30 10:14:47,393 [main] INFO inetBankingV2 - *********Providing Login details**********
+2025-06-30 10:14:47,539 [main] INFO inetBankingV2 - *********Started Login Process**********
+2025-06-30 10:14:47,578 [main] INFO inetBankingV2 - *********Login passed**********
+2025-06-30 10:14:50,981 [main] INFO inetBankingV2 - *********Adding New Customer**********
+2025-06-30 10:14:50,981 [main] INFO inetBankingV2 - *********Providing customer details**********
+2025-06-30 10:14:56,351 [main] INFO inetBankingV2 - *********Submitting customer details**********
+2025-06-30 10:14:59,989 [main] INFO inetBankingV2 - *********Closing browser**********
+2025-06-30 10:15:00,846 [main] INFO inetBankingV2 - *********Launching browser**********
+2025-06-30 10:15:00,848 [main] INFO inetBankingV2 - *********Opening URL**********
+2025-06-30 10:15:03,212 [main] INFO inetBankingV2 - *********Providing Login details**********
+2025-06-30 10:15:03,365 [main] INFO inetBankingV2 - *********Started Login Process**********
+2025-06-30 10:15:03,401 [main] INFO inetBankingV2 - *********Login passed**********
+2025-06-30 10:15:06,125 [main] INFO inetBankingV2 - *********Checking already registered customer**********
+2025-06-30 10:15:06,125 [main] INFO inetBankingV2 - *********Providing a valid customer login details**********
+2025-06-30 10:15:06,205 [main] INFO inetBankingV2 - *********Submitting an existing customer details**********
+2025-06-30 10:15:06,238 [main] INFO inetBankingV2 - *********Confirmed that the costumer is already registered**********
+2025-06-30 10:15:07,122 [main] INFO inetBankingV2 - *********Closing browser**********
+2025-06-30 10:15:07,903 [main] INFO inetBankingV2 - *********Launching browser**********
+2025-06-30 10:15:07,905 [main] INFO inetBankingV2 - *********Opening URL**********
+2025-06-30 10:15:09,474 [main] INFO inetBankingV2 - *********Providing Login details**********
+2025-06-30 10:15:09,606 [main] INFO inetBankingV2 - *********Started Login Process**********
+2025-06-30 10:15:10,275 [main] INFO inetBankingV2 - *********Login passed**********
+2025-06-30 10:15:10,276 [main] INFO inetBankingV2 - *********Closing browser**********
+2025-06-30 10:15:10,994 [main] INFO inetBankingV2 - *********Launching browser**********
+2025-06-30 10:15:10,996 [main] INFO inetBankingV2 - *********Opening URL**********
+2025-06-30 10:15:12,595 [main] INFO inetBankingV2 - *********Providing Login details**********
+2025-06-30 10:15:12,728 [main] INFO inetBankingV2 - *********Started Login Process**********
+2025-06-30 10:15:13,376 [main] INFO inetBankingV2 - *********Login passed**********
+2025-06-30 10:15:13,377 [main] INFO inetBankingV2 - *********Closing browser**********
+2025-06-30 10:15:14,159 [main] INFO inetBankingV2 - *********Launching browser**********
+2025-06-30 10:15:14,161 [main] INFO inetBankingV2 - *********Opening URL**********
+2025-06-30 10:15:15,769 [main] INFO inetBankingV2 - *********Providing Login details**********
+2025-06-30 10:15:15,914 [main] INFO inetBankingV2 - *********Started Login Process**********
+2025-06-30 10:15:15,954 [main] INFO inetBankingV2 - *********Login passed**********
+2025-06-30 10:15:15,955 [main] INFO inetBankingV2 - *********Closing browser**********
+2025-06-30 10:15:43,843 [main] INFO inetBankingV2 - *********Launching browser**********
+2025-06-30 10:15:43,866 [main] INFO inetBankingV2 - *********Opening URL**********
+2025-06-30 10:15:45,925 [main] INFO inetBankingV2 - *********Providing Login details**********
+2025-06-30 10:15:46,074 [main] INFO inetBankingV2 - *********Started Login Process**********
+2025-06-30 10:15:46,112 [main] INFO inetBankingV2 - *********Login passed**********
+2025-06-30 10:15:49,941 [main] INFO inetBankingV2 - *********Adding New Customer**********
+2025-06-30 10:15:49,942 [main] INFO inetBankingV2 - *********Providing customer details**********
+2025-06-30 10:15:55,284 [main] INFO inetBankingV2 - *********Submitting customer details**********
+2025-06-30 10:15:58,645 [main] INFO inetBankingV2 - *********Closing browser**********
+2025-06-30 10:15:59,443 [main] INFO inetBankingV2 - *********Launching browser**********
+2025-06-30 10:15:59,444 [main] INFO inetBankingV2 - *********Opening URL**********
+2025-06-30 10:16:01,211 [main] INFO inetBankingV2 - *********Providing Login details**********
+2025-06-30 10:16:01,346 [main] INFO inetBankingV2 - *********Started Login Process**********
+2025-06-30 10:16:01,385 [main] INFO inetBankingV2 - *********Login passed**********
+2025-06-30 10:16:04,435 [main] INFO inetBankingV2 - *********Checking already registered customer**********
+2025-06-30 10:16:04,435 [main] INFO inetBankingV2 - *********Providing a valid customer login details**********
+2025-06-30 10:16:04,499 [main] INFO inetBankingV2 - *********Submitting an existing customer details**********
+2025-06-30 10:16:04,535 [main] INFO inetBankingV2 - *********Confirmed that the costumer is already registered**********
+2025-06-30 10:16:05,391 [main] INFO inetBankingV2 - *********Closing browser**********
+2025-06-30 10:16:06,141 [main] INFO inetBankingV2 - *********Launching browser**********
+2025-06-30 10:16:06,141 [main] INFO inetBankingV2 - *********Opening URL**********
+2025-06-30 10:16:07,764 [main] INFO inetBankingV2 - *********Providing Login details**********
+2025-06-30 10:16:07,898 [main] INFO inetBankingV2 - *********Started Login Process**********
+2025-06-30 10:16:07,936 [main] INFO inetBankingV2 - *********Login passed**********
+2025-06-30 10:16:07,936 [main] INFO inetBankingV2 - *********Closing browser**********
+2025-06-30 10:16:08,626 [main] INFO inetBankingV2 - *********Launching browser**********
+2025-06-30 10:16:08,628 [main] INFO inetBankingV2 - *********Opening URL**********
+2025-06-30 10:16:10,486 [main] INFO inetBankingV2 - *********Providing Login details**********
+2025-06-30 10:16:10,611 [main] INFO inetBankingV2 - *********Started Login Process**********
+2025-06-30 10:16:11,431 [main] INFO inetBankingV2 - *********Login passed**********
+2025-06-30 10:16:11,432 [main] INFO inetBankingV2 - *********Closing browser**********
+2025-06-30 10:16:12,227 [main] INFO inetBankingV2 - *********Launching browser**********
+2025-06-30 10:16:12,227 [main] INFO inetBankingV2 - *********Opening URL**********
+2025-06-30 10:16:14,112 [main] INFO inetBankingV2 - *********Providing Login details**********
+2025-06-30 10:16:14,240 [main] INFO inetBankingV2 - *********Started Login Process**********
+2025-06-30 10:16:14,277 [main] INFO inetBankingV2 - *********Login passed**********
+2025-06-30 10:16:14,277 [main] INFO inetBankingV2 - *********Closing browser**********
+2025-06-30 10:17:59,177 [main] INFO inetBankingV2 - *********Launching browser**********
+2025-06-30 10:17:59,195 [main] INFO inetBankingV2 - *********Opening URL**********
+2025-06-30 10:18:01,260 [main] INFO inetBankingV2 - *********Providing Login details**********
+2025-06-30 10:18:01,404 [main] INFO inetBankingV2 - *********Started Login Process**********
+2025-06-30 10:18:03,260 [main] INFO inetBankingV2 - *********Login passed**********
+2025-06-30 10:18:06,648 [main] INFO inetBankingV2 - *********Adding New Customer**********
+2025-06-30 10:18:06,649 [main] INFO inetBankingV2 - *********Providing customer details**********
+2025-06-30 10:18:11,996 [main] INFO inetBankingV2 - *********Submitting customer details**********
+2025-06-30 10:18:15,339 [main] INFO inetBankingV2 - *********Closing browser**********
+2025-06-30 10:18:16,095 [main] INFO inetBankingV2 - *********Launching browser**********
+2025-06-30 10:18:16,097 [main] INFO inetBankingV2 - *********Opening URL**********
+2025-06-30 10:18:17,958 [main] INFO inetBankingV2 - *********Providing Login details**********
+2025-06-30 10:18:18,093 [main] INFO inetBankingV2 - *********Started Login Process**********
+2025-06-30 10:18:18,130 [main] INFO inetBankingV2 - *********Login passed**********
+2025-06-30 10:18:20,164 [main] INFO inetBankingV2 - *********Checking already registered customer**********
+2025-06-30 10:18:20,165 [main] INFO inetBankingV2 - *********Providing a valid customer login details**********
+2025-06-30 10:18:20,241 [main] INFO inetBankingV2 - *********Submitting an existing customer details**********
+2025-06-30 10:18:20,285 [main] INFO inetBankingV2 - *********Confirmed that the costumer is already registered**********
+2025-06-30 10:18:21,247 [main] INFO inetBankingV2 - *********Closing browser**********
+2025-06-30 10:18:22,028 [main] INFO inetBankingV2 - *********Launching browser**********
+2025-06-30 10:18:22,029 [main] INFO inetBankingV2 - *********Opening URL**********
+2025-06-30 10:18:23,940 [main] INFO inetBankingV2 - *********Providing Login details**********
+2025-06-30 10:18:24,075 [main] INFO inetBankingV2 - *********Started Login Process**********
+2025-06-30 10:18:24,870 [main] INFO inetBankingV2 - *********Login passed**********
+2025-06-30 10:18:24,872 [main] INFO inetBankingV2 - *********Closing browser**********
+2025-06-30 10:18:25,658 [main] INFO inetBankingV2 - *********Launching browser**********
+2025-06-30 10:18:25,660 [main] INFO inetBankingV2 - *********Opening URL**********
+2025-06-30 10:18:27,289 [main] INFO inetBankingV2 - *********Providing Login details**********
+2025-06-30 10:18:27,432 [main] INFO inetBankingV2 - *********Started Login Process**********
+2025-06-30 10:18:28,083 [main] INFO inetBankingV2 - *********Login passed**********
+2025-06-30 10:18:28,083 [main] INFO inetBankingV2 - *********Closing browser**********
+2025-06-30 10:18:28,775 [main] INFO inetBankingV2 - *********Launching browser**********
+2025-06-30 10:18:28,776 [main] INFO inetBankingV2 - *********Opening URL**********
+2025-06-30 10:18:30,610 [main] INFO inetBankingV2 - *********Providing Login details**********
+2025-06-30 10:18:30,747 [main] INFO inetBankingV2 - *********Started Login Process**********
+2025-06-30 10:18:30,786 [main] INFO inetBankingV2 - *********Login passed**********
+2025-06-30 10:18:30,787 [main] INFO inetBankingV2 - *********Closing browser**********
+2025-06-30 10:19:06,644 [main] INFO inetBankingV2 - *********Launching browser**********
+2025-06-30 10:19:06,656 [main] INFO inetBankingV2 - *********Opening URL**********
+2025-06-30 10:19:08,906 [main] INFO inetBankingV2 - *********Providing Login details**********
+2025-06-30 10:19:09,044 [main] INFO inetBankingV2 - *********Started Login Process**********
+2025-06-30 10:19:09,699 [main] INFO inetBankingV2 - *********Login passed**********
+2025-06-30 10:19:13,385 [main] INFO inetBankingV2 - *********Adding New Customer**********
+2025-06-30 10:19:13,386 [main] INFO inetBankingV2 - *********Providing customer details**********
+2025-06-30 10:19:18,742 [main] INFO inetBankingV2 - *********Submitting customer details**********
+2025-06-30 10:19:22,444 [main] INFO inetBankingV2 - *********Closing browser**********
+2025-06-30 10:19:23,227 [main] INFO inetBankingV2 - *********Launching browser**********
+2025-06-30 10:19:23,229 [main] INFO inetBankingV2 - *********Opening URL**********
+2025-06-30 10:19:24,943 [main] INFO inetBankingV2 - *********Providing Login details**********
+2025-06-30 10:19:25,072 [main] INFO inetBankingV2 - *********Started Login Process**********
+2025-06-30 10:19:25,699 [main] INFO inetBankingV2 - *********Login passed**********
+2025-06-30 10:19:26,430 [main] INFO inetBankingV2 - *********Checking already registered customer**********
+2025-06-30 10:19:26,430 [main] INFO inetBankingV2 - *********Providing a valid customer login details**********
+2025-06-30 10:19:26,492 [main] INFO inetBankingV2 - *********Submitting an existing customer details**********
+2025-06-30 10:19:26,532 [main] INFO inetBankingV2 - *********Confirmed that the costumer is already registered**********
+2025-06-30 10:19:27,377 [main] INFO inetBankingV2 - *********Closing browser**********
+2025-06-30 10:19:28,069 [main] INFO inetBankingV2 - *********Launching browser**********
+2025-06-30 10:19:28,070 [main] INFO inetBankingV2 - *********Opening URL**********
+2025-06-30 10:19:29,652 [main] INFO inetBankingV2 - *********Providing Login details**********
+2025-06-30 10:19:29,780 [main] INFO inetBankingV2 - *********Started Login Process**********
+2025-06-30 10:19:30,457 [main] INFO inetBankingV2 - *********Login passed**********
+2025-06-30 10:19:30,458 [main] INFO inetBankingV2 - *********Closing browser**********
+2025-06-30 10:19:31,209 [main] INFO inetBankingV2 - *********Launching browser**********
+2025-06-30 10:19:31,211 [main] INFO inetBankingV2 - *********Opening URL**********
+2025-06-30 10:19:33,039 [main] INFO inetBankingV2 - *********Providing Login details**********
+2025-06-30 10:19:33,198 [main] INFO inetBankingV2 - *********Started Login Process**********
+2025-06-30 10:19:33,234 [main] INFO inetBankingV2 - *********Login passed**********
+2025-06-30 10:19:33,234 [main] INFO inetBankingV2 - *********Closing browser**********
+2025-06-30 10:19:33,958 [main] INFO inetBankingV2 - *********Launching browser**********
+2025-06-30 10:19:33,959 [main] INFO inetBankingV2 - *********Opening URL**********
+2025-06-30 10:19:35,971 [main] INFO inetBankingV2 - *********Providing Login details**********
+2025-06-30 10:19:36,102 [main] INFO inetBankingV2 - *********Started Login Process**********
+2025-06-30 10:22:18,520 [main] INFO inetBankingV2 - *********Launching browser**********
+2025-06-30 10:22:18,531 [main] INFO inetBankingV2 - *********Opening URL**********
+2025-06-30 10:22:20,588 [main] INFO inetBankingV2 - *********Providing Login details**********
+2025-06-30 10:22:20,726 [main] INFO inetBankingV2 - *********Started Login Process**********
+2025-06-30 10:22:21,371 [main] INFO inetBankingV2 - *********Login passed**********
+2025-06-30 10:22:25,358 [main] INFO inetBankingV2 - *********Adding New Customer**********
+2025-06-30 10:22:25,359 [main] INFO inetBankingV2 - *********Providing customer details**********
+2025-06-30 10:22:30,735 [main] INFO inetBankingV2 - *********Submitting customer details**********
+2025-06-30 10:22:34,063 [main] INFO inetBankingV2 - *********Closing browser**********
+2025-06-30 10:22:34,825 [main] INFO inetBankingV2 - *********Launching browser**********
+2025-06-30 10:22:34,828 [main] INFO inetBankingV2 - *********Opening URL**********
+2025-06-30 10:22:37,070 [main] INFO inetBankingV2 - *********Providing Login details**********
+2025-06-30 10:22:37,205 [main] INFO inetBankingV2 - *********Started Login Process**********
+2025-06-30 10:22:37,839 [main] INFO inetBankingV2 - *********Login passed**********
+2025-06-30 10:22:38,572 [main] INFO inetBankingV2 - *********Checking already registered customer**********
+2025-06-30 10:22:38,572 [main] INFO inetBankingV2 - *********Providing a valid customer login details**********
+2025-06-30 10:22:38,637 [main] INFO inetBankingV2 - *********Submitting an existing customer details**********
+2025-06-30 10:22:38,672 [main] INFO inetBankingV2 - *********Confirmed that the costumer is already registered**********
+2025-06-30 10:22:39,707 [main] INFO inetBankingV2 - *********Closing browser**********
+2025-06-30 10:22:40,423 [main] INFO inetBankingV2 - *********Launching browser**********
+2025-06-30 10:22:40,424 [main] INFO inetBankingV2 - *********Opening URL**********
+2025-06-30 10:22:42,401 [main] INFO inetBankingV2 - *********Providing Login details**********
+2025-06-30 10:22:42,518 [main] INFO inetBankingV2 - *********Started Login Process**********
+2025-06-30 10:22:43,192 [main] INFO inetBankingV2 - *********Login passed**********
+2025-06-30 10:22:43,193 [main] INFO inetBankingV2 - *********Closing browser**********
+2025-06-30 10:22:43,944 [main] INFO inetBankingV2 - *********Launching browser**********
+2025-06-30 10:22:43,946 [main] INFO inetBankingV2 - *********Opening URL**********
+2025-06-30 10:22:46,081 [main] INFO inetBankingV2 - *********Providing Login details**********
+2025-06-30 10:22:46,211 [main] INFO inetBankingV2 - *********Started Login Process**********
+2025-06-30 10:22:46,249 [main] INFO inetBankingV2 - *********Login passed**********
+2025-06-30 10:22:46,249 [main] INFO inetBankingV2 - *********Closing browser**********
+2025-06-30 10:22:46,940 [main] INFO inetBankingV2 - *********Launching browser**********
+2025-06-30 10:22:46,941 [main] INFO inetBankingV2 - *********Opening URL**********
+2025-06-30 10:22:48,554 [main] INFO inetBankingV2 - *********Providing Login details**********
+2025-06-30 10:22:48,737 [main] INFO inetBankingV2 - *********Started Login Process**********
+2025-06-30 10:38:21,343 [main] INFO inetBankingV2 - *********Launching browser**********
+2025-06-30 10:38:21,363 [main] INFO inetBankingV2 - *********Opening URL**********
+2025-06-30 10:38:24,608 [main] INFO inetBankingV2 - *********Providing Login details**********
+2025-06-30 10:38:24,767 [main] INFO inetBankingV2 - *********Started Login Process**********
+2025-06-30 10:38:25,665 [main] INFO inetBankingV2 - *********Login passed**********
+2025-06-30 10:38:29,227 [main] INFO inetBankingV2 - *********Adding New Customer**********
+2025-06-30 10:38:29,228 [main] INFO inetBankingV2 - *********Providing customer details**********
+2025-06-30 10:38:34,563 [main] INFO inetBankingV2 - *********Submitting customer details**********
+2025-06-30 10:38:38,256 [main] INFO inetBankingV2 - *********Closing browser**********
+2025-06-30 10:38:39,026 [main] INFO inetBankingV2 - *********Launching browser**********
+2025-06-30 10:38:39,028 [main] INFO inetBankingV2 - *********Opening URL**********
+2025-06-30 10:38:40,892 [main] INFO inetBankingV2 - *********Providing Login details**********
+2025-06-30 10:38:41,030 [main] INFO inetBankingV2 - *********Started Login Process**********
+2025-06-30 10:38:41,710 [main] INFO inetBankingV2 - *********Login passed**********
+2025-06-30 10:38:42,470 [main] INFO inetBankingV2 - *********Checking already registered customer**********
+2025-06-30 10:38:42,471 [main] INFO inetBankingV2 - *********Providing a valid customer login details**********
+2025-06-30 10:38:42,534 [main] INFO inetBankingV2 - *********Submitting an existing customer details**********
+2025-06-30 10:38:42,573 [main] INFO inetBankingV2 - *********Confirmed that the costumer is already registered**********
+2025-06-30 10:38:44,074 [main] INFO inetBankingV2 - *********Closing browser**********
+2025-06-30 10:38:44,814 [main] INFO inetBankingV2 - *********Launching browser**********
+2025-06-30 10:38:44,815 [main] INFO inetBankingV2 - *********Opening URL**********
+2025-06-30 10:38:46,493 [main] INFO inetBankingV2 - *********Providing Login details**********
+2025-06-30 10:38:46,632 [main] INFO inetBankingV2 - *********Started Login Process**********
+2025-06-30 10:38:47,296 [main] INFO inetBankingV2 - *********Login passed**********
+2025-06-30 10:38:47,297 [main] INFO inetBankingV2 - *********Closing browser**********
+2025-06-30 10:38:47,981 [main] INFO inetBankingV2 - *********Launching browser**********
+2025-06-30 10:38:47,983 [main] INFO inetBankingV2 - *********Opening URL**********
+2025-06-30 10:38:49,632 [main] INFO inetBankingV2 - *********Providing Login details**********
+2025-06-30 10:38:49,764 [main] INFO inetBankingV2 - *********Started Login Process**********
+2025-06-30 10:38:49,802 [main] INFO inetBankingV2 - *********Login passed**********
+2025-06-30 10:38:49,802 [main] INFO inetBankingV2 - *********Closing browser**********
+2025-06-30 10:38:50,541 [main] INFO inetBankingV2 - *********Launching browser**********
+2025-06-30 10:38:50,542 [main] INFO inetBankingV2 - *********Opening URL**********
+2025-06-30 10:38:52,210 [main] INFO inetBankingV2 - *********Providing Login details**********
+2025-06-30 10:38:52,345 [main] INFO inetBankingV2 - *********Started Login Process**********
+2025-06-30 10:38:52,633 [main] INFO inetBankingV2 - Login failed
+2025-06-30 10:38:53,243 [main] INFO inetBankingV2 - *********Closing browser**********
+2025-06-30 10:42:33,677 [main] INFO inetBankingV2 - *********Launching browser**********
+2025-06-30 10:42:33,689 [main] INFO inetBankingV2 - *********Opening URL**********
+2025-06-30 10:42:35,699 [main] INFO inetBankingV2 - *********Providing Login details**********
+2025-06-30 10:42:35,833 [main] INFO inetBankingV2 - *********Started Login Process**********
+2025-06-30 10:42:36,473 [main] INFO inetBankingV2 - *********Login passed**********
+2025-06-30 10:42:39,870 [main] INFO inetBankingV2 - *********Adding New Customer**********
+2025-06-30 10:42:39,870 [main] INFO inetBankingV2 - *********Providing customer details**********
+2025-06-30 10:42:45,224 [main] INFO inetBankingV2 - *********Submitting customer details**********
+2025-06-30 10:42:48,544 [main] INFO inetBankingV2 - *********Closing browser**********
+2025-06-30 10:42:49,299 [main] INFO inetBankingV2 - *********Launching browser**********
+2025-06-30 10:42:49,300 [main] INFO inetBankingV2 - *********Opening URL**********
+2025-06-30 10:42:51,311 [main] INFO inetBankingV2 - *********Providing Login details**********
+2025-06-30 10:42:51,442 [main] INFO inetBankingV2 - *********Started Login Process**********
+2025-06-30 10:42:52,073 [main] INFO inetBankingV2 - *********Login passed**********
+2025-06-30 10:42:52,832 [main] INFO inetBankingV2 - *********Checking already registered customer**********
+2025-06-30 10:42:52,833 [main] INFO inetBankingV2 - *********Providing a valid customer login details**********
+2025-06-30 10:42:52,893 [main] INFO inetBankingV2 - *********Submitting an existing customer details**********
+2025-06-30 10:42:52,928 [main] INFO inetBankingV2 - *********Confirmed that the costumer is already registered**********
+2025-06-30 10:42:53,822 [main] INFO inetBankingV2 - *********Closing browser**********
+2025-06-30 10:42:54,594 [main] INFO inetBankingV2 - *********Launching browser**********
+2025-06-30 10:42:54,595 [main] INFO inetBankingV2 - *********Opening URL**********
+2025-06-30 10:42:56,661 [main] INFO inetBankingV2 - *********Providing Login details**********
+2025-06-30 10:42:56,788 [main] INFO inetBankingV2 - *********Started Login Process**********
+2025-06-30 10:42:57,517 [main] INFO inetBankingV2 - *********Login passed**********
+2025-06-30 10:42:57,518 [main] INFO inetBankingV2 - *********Closing browser**********
+2025-06-30 10:42:58,194 [main] INFO inetBankingV2 - *********Launching browser**********
+2025-06-30 10:42:58,195 [main] INFO inetBankingV2 - *********Opening URL**********
+2025-06-30 10:43:00,261 [main] INFO inetBankingV2 - *********Providing Login details**********
+2025-06-30 10:43:00,392 [main] INFO inetBankingV2 - *********Started Login Process**********
+2025-06-30 10:43:01,205 [main] INFO inetBankingV2 - *********Login passed**********
+2025-06-30 10:43:01,206 [main] INFO inetBankingV2 - *********Closing browser**********
+2025-06-30 10:43:01,986 [main] INFO inetBankingV2 - *********Launching browser**********
+2025-06-30 10:43:01,987 [main] INFO inetBankingV2 - *********Opening URL**********
+2025-06-30 10:43:03,933 [main] INFO inetBankingV2 - *********Providing Login details**********
+2025-06-30 10:43:04,069 [main] INFO inetBankingV2 - *********Started Login Process**********
+2025-06-30 10:43:04,334 [main] INFO inetBankingV2 - **************Login failed****************
+2025-06-30 10:43:04,925 [main] INFO inetBankingV2 - *********Closing browser**********
+2025-06-30 10:50:18,620 [main] INFO inetBankingV2 - *********Launching browser**********
+2025-06-30 10:50:18,634 [main] INFO inetBankingV2 - *********Opening URL**********
+2025-06-30 10:50:20,838 [main] INFO inetBankingV2 - *********Providing Login details**********
+2025-06-30 10:50:21,005 [main] INFO inetBankingV2 - *********Started Login Process**********
+2025-06-30 10:50:21,708 [main] INFO inetBankingV2 - *********Login passed**********
+2025-06-30 10:50:21,709 [main] INFO inetBankingV2 - *********Page Title is matching**********
+2025-06-30 10:50:25,717 [main] INFO inetBankingV2 - *********Adding New Customer**********
+2025-06-30 10:50:25,718 [main] INFO inetBankingV2 - *********Providing customer details**********
+2025-06-30 10:50:31,089 [main] INFO inetBankingV2 - *********Submitting customer details**********
+2025-06-30 10:50:34,792 [main] INFO inetBankingV2 - *********Closing browser**********
+2025-06-30 10:50:35,565 [main] INFO inetBankingV2 - *********Launching browser**********
+2025-06-30 10:50:35,566 [main] INFO inetBankingV2 - *********Opening URL**********
+2025-06-30 10:50:37,974 [main] INFO inetBankingV2 - *********Providing Login details**********
+2025-06-30 10:50:38,097 [main] INFO inetBankingV2 - *********Started Login Process**********
+2025-06-30 10:50:38,136 [main] INFO inetBankingV2 - *********Login passed**********
+2025-06-30 10:50:38,136 [main] INFO inetBankingV2 - *********Page Title is matching**********
+2025-06-30 10:50:39,736 [main] INFO inetBankingV2 - *********Checking already registered customer**********
+2025-06-30 10:50:39,736 [main] INFO inetBankingV2 - *********Providing a valid customer login details**********
+2025-06-30 10:50:39,816 [main] INFO inetBankingV2 - *********Submitting an existing customer details**********
+2025-06-30 10:50:39,850 [main] INFO inetBankingV2 - *********Confirmed that the costumer is already registered**********
+2025-06-30 10:50:40,757 [main] INFO inetBankingV2 - *********Closing browser**********
+2025-06-30 10:50:41,516 [main] INFO inetBankingV2 - *********Launching browser**********
+2025-06-30 10:50:41,516 [main] INFO inetBankingV2 - *********Opening URL**********
+2025-06-30 10:50:43,458 [main] INFO inetBankingV2 - *********Providing Login details**********
+2025-06-30 10:50:43,589 [main] INFO inetBankingV2 - *********Started Login Process**********
+2025-06-30 10:50:43,839 [main] INFO inetBankingV2 - *********Login passed**********
+2025-06-30 10:50:43,840 [main] INFO inetBankingV2 - *********Page Title is matching**********
+2025-06-30 10:50:43,842 [main] INFO inetBankingV2 - *********Closing browser**********
+2025-06-30 10:50:44,600 [main] INFO inetBankingV2 - *********Launching browser**********
+2025-06-30 10:50:44,601 [main] INFO inetBankingV2 - *********Opening URL**********
+2025-06-30 10:50:46,538 [main] INFO inetBankingV2 - *********Providing Login details**********
+2025-06-30 10:50:46,665 [main] INFO inetBankingV2 - *********Started Login Process**********
+2025-06-30 10:50:46,702 [main] INFO inetBankingV2 - *********Login passed**********
+2025-06-30 10:50:46,702 [main] INFO inetBankingV2 - *********Page Title is matching**********
+2025-06-30 10:50:46,702 [main] INFO inetBankingV2 - *********Closing browser**********
+2025-06-30 10:50:47,381 [main] INFO inetBankingV2 - *********Launching browser**********
+2025-06-30 10:50:47,382 [main] INFO inetBankingV2 - *********Opening URL**********
+2025-06-30 10:50:49,276 [main] INFO inetBankingV2 - *********Providing Login details**********
+2025-06-30 10:50:49,408 [main] INFO inetBankingV2 - *********Started Login Process**********
+2025-06-30 10:50:49,671 [main] INFO inetBankingV2 - **************Login failed****************
+2025-06-30 10:50:50,233 [main] INFO inetBankingV2 - *********Closing browser**********
+2025-06-30 12:23:50,312 [main] INFO inetBankingV2 - *********Launching browser**********
+2025-06-30 12:23:50,324 [main] INFO inetBankingV2 - *********Opening URL**********
+2025-06-30 12:23:52,708 [main] INFO inetBankingV2 - *********Providing Login details**********
+2025-06-30 12:23:52,857 [main] INFO inetBankingV2 - *********Started Login Process**********
+2025-06-30 12:23:53,687 [main] INFO inetBankingV2 - *********Login passed**********
+2025-06-30 12:23:53,688 [main] INFO inetBankingV2 - *********Page Title is matching**********
+2025-06-30 12:23:57,479 [main] INFO inetBankingV2 - *********Adding New Customer**********
+2025-06-30 12:23:57,479 [main] INFO inetBankingV2 - *********Providing customer details**********
+2025-06-30 12:24:02,831 [main] INFO inetBankingV2 - *********Submitting customer details**********
+2025-06-30 12:24:06,981 [main] INFO inetBankingV2 - *********Closing browser**********
+2025-06-30 12:24:07,870 [main] INFO inetBankingV2 - *********Launching browser**********
+2025-06-30 12:24:07,871 [main] INFO inetBankingV2 - *********Opening URL**********
+2025-06-30 12:24:09,845 [main] INFO inetBankingV2 - *********Providing Login details**********
+2025-06-30 12:24:09,974 [main] INFO inetBankingV2 - *********Started Login Process**********
+2025-06-30 12:24:10,014 [main] INFO inetBankingV2 - *********Login passed**********
+2025-06-30 12:24:10,015 [main] INFO inetBankingV2 - *********Page Title is matching**********
+2025-06-30 12:24:11,455 [main] INFO inetBankingV2 - *********Checking already registered customer**********
+2025-06-30 12:24:11,455 [main] INFO inetBankingV2 - *********Providing a valid customer login details**********
+2025-06-30 12:24:11,518 [main] INFO inetBankingV2 - *********Submitting an existing customer details**********
+2025-06-30 12:24:11,552 [main] INFO inetBankingV2 - *********Confirmed that the costumer is already registered**********
+2025-06-30 12:24:12,585 [main] INFO inetBankingV2 - *********Closing browser**********
+2025-06-30 12:24:13,474 [main] INFO inetBankingV2 - *********Launching browser**********
+2025-06-30 12:24:13,475 [main] INFO inetBankingV2 - *********Opening URL**********
+2025-06-30 12:24:15,459 [main] INFO inetBankingV2 - *********Providing Login details**********
+2025-06-30 12:24:15,606 [main] INFO inetBankingV2 - *********Started Login Process**********
+2025-06-30 12:24:15,643 [main] INFO inetBankingV2 - *********Login passed**********
+2025-06-30 12:24:15,643 [main] INFO inetBankingV2 - *********Page Title is matching**********
+2025-06-30 12:24:15,643 [main] INFO inetBankingV2 - *********Closing browser**********
+2025-06-30 12:24:16,502 [main] INFO inetBankingV2 - *********Launching browser**********
+2025-06-30 12:24:16,503 [main] INFO inetBankingV2 - *********Opening URL**********
+2025-06-30 12:24:18,668 [main] INFO inetBankingV2 - *********Providing Login details**********
+2025-06-30 12:24:18,800 [main] INFO inetBankingV2 - *********Started Login Process**********
+2025-06-30 12:24:18,838 [main] INFO inetBankingV2 - *********Login passed**********
+2025-06-30 12:24:18,838 [main] INFO inetBankingV2 - *********Page Title is matching**********
+2025-06-30 12:24:18,838 [main] INFO inetBankingV2 - *********Closing browser**********
+2025-06-30 12:24:19,679 [main] INFO inetBankingV2 - *********Launching browser**********
+2025-06-30 12:24:19,680 [main] INFO inetBankingV2 - *********Opening URL**********
+2025-06-30 12:24:21,704 [main] INFO inetBankingV2 - *********Providing Login details**********
+2025-06-30 12:24:21,841 [main] INFO inetBankingV2 - *********Started Login Process**********
+2025-06-30 12:24:21,881 [main] INFO inetBankingV2 - *********Login passed**********
+2025-06-30 12:24:21,881 [main] INFO inetBankingV2 - *********Page Title is matching**********
+2025-06-30 12:24:21,882 [main] INFO inetBankingV2 - *********Closing browser**********
+2025-06-30 12:26:05,651 [main] INFO inetBankingV2 - *********Launching browser**********
+2025-06-30 12:26:05,665 [main] INFO inetBankingV2 - *********Opening URL**********
+2025-06-30 12:26:07,957 [main] INFO inetBankingV2 - *********Providing Login details**********
+2025-06-30 12:26:08,100 [main] INFO inetBankingV2 - *********Started Login Process**********
+2025-06-30 12:26:08,763 [main] INFO inetBankingV2 - *********Login passed**********
+2025-06-30 12:26:08,764 [main] INFO inetBankingV2 - *********Page Title is matching**********
+2025-06-30 12:26:12,175 [main] INFO inetBankingV2 - *********Adding New Customer**********
+2025-06-30 12:26:12,175 [main] INFO inetBankingV2 - *********Providing customer details**********
+2025-06-30 12:26:17,491 [main] INFO inetBankingV2 - *********Submitting customer details**********
+2025-06-30 12:26:21,243 [main] INFO inetBankingV2 - *********Closing browser**********
+2025-06-30 12:26:22,117 [main] INFO inetBankingV2 - *********Launching browser**********
+2025-06-30 12:26:22,118 [main] INFO inetBankingV2 - *********Opening URL**********
+2025-06-30 12:26:24,255 [main] INFO inetBankingV2 - *********Providing Login details**********
+2025-06-30 12:26:24,386 [main] INFO inetBankingV2 - *********Started Login Process**********
+2025-06-30 12:26:24,426 [main] INFO inetBankingV2 - *********Login passed**********
+2025-06-30 12:26:24,426 [main] INFO inetBankingV2 - *********Page Title is matching**********
+2025-06-30 12:26:26,043 [main] INFO inetBankingV2 - *********Launching browser**********
+2025-06-30 12:26:26,044 [main] INFO inetBankingV2 - *********Opening URL**********
+2025-06-30 12:26:28,006 [main] INFO inetBankingV2 - *********Providing Login details**********
+2025-06-30 12:26:28,139 [main] INFO inetBankingV2 - *********Started Login Process**********
+2025-06-30 12:26:28,177 [main] INFO inetBankingV2 - *********Login passed**********
+2025-06-30 12:26:28,177 [main] INFO inetBankingV2 - *********Page Title is matching**********
+2025-06-30 12:26:28,177 [main] INFO inetBankingV2 - *********Closing browser**********
+2025-06-30 12:26:29,080 [main] INFO inetBankingV2 - *********Launching browser**********
+2025-06-30 12:26:29,081 [main] INFO inetBankingV2 - *********Opening URL**********
+2025-06-30 12:26:31,089 [main] INFO inetBankingV2 - *********Providing Login details**********
+2025-06-30 12:26:31,239 [main] INFO inetBankingV2 - *********Started Login Process**********
+2025-06-30 12:26:31,489 [main] INFO inetBankingV2 - *********Login passed**********
+2025-06-30 12:26:31,490 [main] INFO inetBankingV2 - *********Page Title is matching**********
+2025-06-30 12:26:31,491 [main] INFO inetBankingV2 - *********Closing browser**********
+2025-06-30 12:26:32,391 [main] INFO inetBankingV2 - *********Launching browser**********
+2025-06-30 12:26:32,392 [main] INFO inetBankingV2 - *********Opening URL**********
+2025-06-30 12:26:36,871 [main] INFO inetBankingV2 - *********Providing Login details**********
+2025-06-30 12:26:37,020 [main] INFO inetBankingV2 - *********Started Login Process**********
+2025-06-30 12:26:37,058 [main] INFO inetBankingV2 - *********Login passed**********
+2025-06-30 12:26:37,058 [main] INFO inetBankingV2 - *********Page Title is matching**********
+2025-06-30 12:26:37,058 [main] INFO inetBankingV2 - *********Closing browser**********
+2025-06-30 12:28:24,361 [main] INFO inetBankingV2 - *********Launching browser**********
+2025-06-30 12:28:24,374 [main] INFO inetBankingV2 - *********Opening URL**********
+2025-06-30 12:28:26,492 [main] INFO inetBankingV2 - *********Providing Login details**********
+2025-06-30 12:28:26,630 [main] INFO inetBankingV2 - *********Started Login Process**********
+2025-06-30 12:28:27,317 [main] INFO inetBankingV2 - *********Login passed**********
+2025-06-30 12:28:27,318 [main] INFO inetBankingV2 - *********Page Title is matching**********
+2025-06-30 12:28:31,131 [main] INFO inetBankingV2 - *********Adding New Customer**********
+2025-06-30 12:28:31,131 [main] INFO inetBankingV2 - *********Providing customer details**********
+2025-06-30 12:28:36,501 [main] INFO inetBankingV2 - *********Submitting customer details**********
+2025-06-30 12:28:40,225 [main] INFO inetBankingV2 - *********Closing browser**********
+2025-06-30 12:28:41,123 [main] INFO inetBankingV2 - *********Launching browser**********
+2025-06-30 12:28:41,124 [main] INFO inetBankingV2 - *********Opening URL**********
+2025-06-30 12:28:43,339 [main] INFO inetBankingV2 - *********Providing Login details**********
+2025-06-30 12:28:43,500 [main] INFO inetBankingV2 - *********Started Login Process**********
+2025-06-30 12:28:44,326 [main] INFO inetBankingV2 - *********Login passed**********
+2025-06-30 12:28:44,326 [main] INFO inetBankingV2 - *********Page Title is matching**********
+2025-06-30 12:28:45,075 [main] INFO inetBankingV2 - *********Checking already registered customer**********
+2025-06-30 12:28:45,076 [main] INFO inetBankingV2 - *********Providing a valid customer login details**********
+2025-06-30 12:28:45,138 [main] INFO inetBankingV2 - *********Submitting an existing customer details**********
+2025-06-30 12:28:45,171 [main] INFO inetBankingV2 - *********Confirmed that the costumer is already registered**********
+2025-06-30 12:28:46,062 [main] INFO inetBankingV2 - *********Closing browser**********
+2025-06-30 12:28:46,980 [main] INFO inetBankingV2 - *********Launching browser**********
+2025-06-30 12:28:46,981 [main] INFO inetBankingV2 - *********Opening URL**********
+2025-06-30 12:28:48,970 [main] INFO inetBankingV2 - *********Providing Login details**********
+2025-06-30 12:28:49,107 [main] INFO inetBankingV2 - *********Started Login Process**********
+2025-06-30 12:28:49,146 [main] INFO inetBankingV2 - *********Login passed**********
+2025-06-30 12:28:49,146 [main] INFO inetBankingV2 - *********Page Title is matching**********
+2025-06-30 12:28:49,146 [main] INFO inetBankingV2 - *********Closing browser**********
+2025-06-30 12:28:50,027 [main] INFO inetBankingV2 - *********Launching browser**********
+2025-06-30 12:28:50,028 [main] INFO inetBankingV2 - *********Opening URL**********
+2025-06-30 12:28:51,921 [main] INFO inetBankingV2 - *********Providing Login details**********
+2025-06-30 12:28:52,066 [main] INFO inetBankingV2 - *********Started Login Process**********
+2025-06-30 12:28:52,711 [main] INFO inetBankingV2 - *********Login passed**********
+2025-06-30 12:28:52,711 [main] INFO inetBankingV2 - *********Page Title is matching**********
+2025-06-30 12:28:52,712 [main] INFO inetBankingV2 - *********Closing browser**********
+2025-06-30 12:28:53,610 [main] INFO inetBankingV2 - *********Launching browser**********
+2025-06-30 12:28:53,611 [main] INFO inetBankingV2 - *********Opening URL**********
+2025-06-30 12:28:55,772 [main] INFO inetBankingV2 - *********Providing Login details**********
+2025-06-30 12:28:55,916 [main] INFO inetBankingV2 - *********Started Login Process**********
+2025-06-30 12:32:15,777 [main] INFO inetBankingV2 - *********Launching browser**********
+2025-06-30 12:32:15,792 [main] INFO inetBankingV2 - *********Opening URL**********
+2025-06-30 12:32:17,893 [main] INFO inetBankingV2 - *********Providing Login details**********
+2025-06-30 12:32:18,040 [main] INFO inetBankingV2 - *********Started Login Process**********
+2025-06-30 12:32:21,125 [main] INFO inetBankingV2 - *********Login passed**********
+2025-06-30 12:32:21,126 [main] INFO inetBankingV2 - *********Page Title is matching**********
+2025-06-30 12:32:25,026 [main] INFO inetBankingV2 - *********Adding New Customer**********
+2025-06-30 12:32:25,027 [main] INFO inetBankingV2 - *********Providing customer details**********
+2025-06-30 12:32:30,406 [main] INFO inetBankingV2 - *********Submitting customer details**********
+2025-06-30 12:32:34,267 [main] INFO inetBankingV2 - *********Closing browser**********
+2025-06-30 12:32:35,206 [main] INFO inetBankingV2 - *********Launching browser**********
+2025-06-30 12:32:35,207 [main] INFO inetBankingV2 - *********Opening URL**********
+2025-06-30 12:32:37,114 [main] INFO inetBankingV2 - *********Providing Login details**********
+2025-06-30 12:32:37,263 [main] INFO inetBankingV2 - *********Started Login Process**********
+2025-06-30 12:32:40,323 [main] INFO inetBankingV2 - *********Login passed**********
+2025-06-30 12:32:40,323 [main] INFO inetBankingV2 - *********Page Title is matching**********
+2025-06-30 12:32:41,577 [main] INFO inetBankingV2 - *********Checking already registered customer**********
+2025-06-30 12:32:41,577 [main] INFO inetBankingV2 - *********Providing a valid customer login details**********
+2025-06-30 12:32:41,641 [main] INFO inetBankingV2 - *********Submitting an existing customer details**********
+2025-06-30 12:32:41,675 [main] INFO inetBankingV2 - *********Confirmed that the costumer is already registered**********
+2025-06-30 12:32:42,590 [main] INFO inetBankingV2 - *********Closing browser**********
+2025-06-30 12:32:43,513 [main] INFO inetBankingV2 - *********Launching browser**********
+2025-06-30 12:32:43,514 [main] INFO inetBankingV2 - *********Opening URL**********
+2025-06-30 12:32:45,550 [main] INFO inetBankingV2 - *********Providing Login details**********
+2025-06-30 12:32:45,678 [main] INFO inetBankingV2 - *********Started Login Process**********
+2025-06-30 12:32:48,737 [main] INFO inetBankingV2 - *********Login passed**********
+2025-06-30 12:32:48,737 [main] INFO inetBankingV2 - *********Page Title is matching**********
+2025-06-30 12:32:48,738 [main] INFO inetBankingV2 - *********Closing browser**********
+2025-06-30 12:32:49,623 [main] INFO inetBankingV2 - *********Launching browser**********
+2025-06-30 12:32:49,624 [main] INFO inetBankingV2 - *********Opening URL**********
+2025-06-30 12:32:51,664 [main] INFO inetBankingV2 - *********Providing Login details**********
+2025-06-30 12:32:51,793 [main] INFO inetBankingV2 - *********Started Login Process**********
+2025-06-30 12:32:54,854 [main] INFO inetBankingV2 - *********Login passed**********
+2025-06-30 12:32:54,855 [main] INFO inetBankingV2 - *********Page Title is matching**********
+2025-06-30 12:32:54,856 [main] INFO inetBankingV2 - *********Closing browser**********
+2025-06-30 12:32:55,775 [main] INFO inetBankingV2 - *********Launching browser**********
+2025-06-30 12:32:55,775 [main] INFO inetBankingV2 - *********Opening URL**********
+2025-06-30 12:32:57,972 [main] INFO inetBankingV2 - *********Providing Login details**********
+2025-06-30 12:32:58,112 [main] INFO inetBankingV2 - *********Started Login Process**********
+2025-06-30 12:33:01,160 [main] INFO inetBankingV2 - **************Login failed****************
+2025-06-30 12:33:01,826 [main] INFO inetBankingV2 - *********Closing browser**********
+2025-06-30 12:37:38,894 [main] INFO inetBankingV2 - *********Launching browser**********
+2025-06-30 12:37:38,906 [main] INFO inetBankingV2 - *********Opening URL**********
+2025-06-30 12:37:40,993 [main] INFO inetBankingV2 - *********Providing Login details**********
+2025-06-30 12:37:41,152 [main] INFO inetBankingV2 - *********Started Login Process**********
+2025-06-30 12:37:44,425 [main] INFO inetBankingV2 - *********Login passed**********
+2025-06-30 12:37:44,426 [main] INFO inetBankingV2 - *********Page Title is matching**********
+2025-06-30 12:37:47,828 [main] INFO inetBankingV2 - *********Adding New Customer**********
+2025-06-30 12:37:47,829 [main] INFO inetBankingV2 - *********Providing customer details**********
+2025-06-30 12:37:53,167 [main] INFO inetBankingV2 - *********Submitting customer details**********
+2025-06-30 12:37:56,886 [main] INFO inetBankingV2 - *********Closing browser**********
+2025-06-30 12:37:57,809 [main] INFO inetBankingV2 - *********Launching browser**********
+2025-06-30 12:37:57,810 [main] INFO inetBankingV2 - *********Opening URL**********
+2025-06-30 12:37:59,828 [main] INFO inetBankingV2 - *********Providing Login details**********
+2025-06-30 12:38:00,007 [main] INFO inetBankingV2 - *********Started Login Process**********
+2025-06-30 12:38:03,066 [main] INFO inetBankingV2 - *********Login passed**********
+2025-06-30 12:38:03,067 [main] INFO inetBankingV2 - *********Page Title is matching**********
+2025-06-30 12:38:04,212 [main] INFO inetBankingV2 - *********Checking already registered customer**********
+2025-06-30 12:38:04,212 [main] INFO inetBankingV2 - *********Providing a valid customer login details**********
+2025-06-30 12:38:04,278 [main] INFO inetBankingV2 - *********Submitting an existing customer details**********
+2025-06-30 12:38:04,312 [main] INFO inetBankingV2 - *********Confirmed that the costumer is already registered**********
+2025-06-30 12:38:05,187 [main] INFO inetBankingV2 - *********Closing browser**********
+2025-06-30 12:38:06,076 [main] INFO inetBankingV2 - *********Launching browser**********
+2025-06-30 12:38:06,078 [main] INFO inetBankingV2 - *********Opening URL**********
+2025-06-30 12:38:08,073 [main] INFO inetBankingV2 - *********Providing Login details**********
+2025-06-30 12:38:08,223 [main] INFO inetBankingV2 - *********Started Login Process**********
+2025-06-30 12:38:11,280 [main] INFO inetBankingV2 - *********Login passed**********
+2025-06-30 12:38:11,280 [main] INFO inetBankingV2 - *********Page Title is matching**********
+2025-06-30 12:38:11,281 [main] INFO inetBankingV2 - *********Closing browser**********
+2025-06-30 12:38:12,211 [main] INFO inetBankingV2 - *********Launching browser**********
+2025-06-30 12:38:12,212 [main] INFO inetBankingV2 - *********Opening URL**********
+2025-06-30 12:38:14,234 [main] INFO inetBankingV2 - *********Providing Login details**********
+2025-06-30 12:38:14,373 [main] INFO inetBankingV2 - *********Started Login Process**********
+2025-06-30 12:38:17,422 [main] INFO inetBankingV2 - *********Login passed**********
+2025-06-30 12:38:17,422 [main] INFO inetBankingV2 - *********Page Title is matching**********
+2025-06-30 12:38:17,423 [main] INFO inetBankingV2 - *********Closing browser**********
+2025-06-30 12:38:18,269 [main] INFO inetBankingV2 - *********Launching browser**********
+2025-06-30 12:38:18,270 [main] INFO inetBankingV2 - *********Opening URL**********
+2025-06-30 12:38:20,339 [main] INFO inetBankingV2 - *********Providing Login details**********
+2025-06-30 12:38:20,470 [main] INFO inetBankingV2 - *********Started Login Process**********
+2025-06-30 12:38:23,517 [main] INFO inetBankingV2 - **************Login failed****************
+2025-06-30 12:38:24,294 [main] INFO inetBankingV2 - *********Closing browser**********
+2025-06-30 12:51:49,512 [main] INFO inetBankingV2 - *********Launching browser**********
+2025-06-30 12:51:49,523 [main] INFO inetBankingV2 - *********Opening URL**********
+2025-06-30 12:51:51,812 [main] INFO inetBankingV2 - *********Providing Login details**********
+2025-06-30 12:51:51,944 [main] INFO inetBankingV2 - *********Started Login Process**********
+2025-06-30 12:51:55,254 [main] INFO inetBankingV2 - *********Login passed**********
+2025-06-30 12:51:55,255 [main] INFO inetBankingV2 - *********Page Title is matching**********
+2025-06-30 12:51:58,684 [main] INFO inetBankingV2 - *********Adding New Customer**********
+2025-06-30 12:51:58,685 [main] INFO inetBankingV2 - *********Providing customer details**********
+2025-06-30 12:52:04,038 [main] INFO inetBankingV2 - *********Submitting customer details**********
+2025-06-30 12:52:07,756 [main] INFO inetBankingV2 - *********Closing browser**********
+2025-06-30 12:52:08,668 [main] INFO inetBankingV2 - *********Launching browser**********
+2025-06-30 12:52:08,669 [main] INFO inetBankingV2 - *********Opening URL**********
+2025-06-30 12:52:10,882 [main] INFO inetBankingV2 - *********Providing Login details**********
+2025-06-30 12:52:11,015 [main] INFO inetBankingV2 - *********Started Login Process**********
+2025-06-30 12:52:14,074 [main] INFO inetBankingV2 - *********Login passed**********
+2025-06-30 12:52:14,074 [main] INFO inetBankingV2 - *********Page Title is matching**********
+2025-06-30 12:52:15,021 [main] INFO inetBankingV2 - *********Checking already registered customer**********
+2025-06-30 12:52:15,021 [main] INFO inetBankingV2 - *********Providing a valid customer login details**********
+2025-06-30 12:52:15,084 [main] INFO inetBankingV2 - *********Submitting an existing customer details**********
+2025-06-30 12:52:15,118 [main] INFO inetBankingV2 - *********Confirmed that the costumer is already registered**********
+2025-06-30 12:52:16,061 [main] INFO inetBankingV2 - *********Closing browser**********
+2025-06-30 12:52:16,883 [main] INFO inetBankingV2 - *********Launching browser**********
+2025-06-30 12:52:16,884 [main] INFO inetBankingV2 - *********Opening URL**********
+2025-06-30 12:52:19,015 [main] INFO inetBankingV2 - *********Providing Login details**********
+2025-06-30 12:52:19,144 [main] INFO inetBankingV2 - *********Started Login Process**********
+2025-06-30 12:52:22,412 [main] INFO inetBankingV2 - *********Login passed**********
+2025-06-30 12:52:22,413 [main] INFO inetBankingV2 - *********Page Title is matching**********
+2025-06-30 12:52:22,414 [main] INFO inetBankingV2 - *********Closing browser**********
+2025-06-30 12:52:23,314 [main] INFO inetBankingV2 - *********Launching browser**********
+2025-06-30 12:52:23,315 [main] INFO inetBankingV2 - *********Opening URL**********
+2025-06-30 12:52:25,428 [main] INFO inetBankingV2 - *********Providing Login details**********
+2025-06-30 12:52:25,561 [main] INFO inetBankingV2 - *********Started Login Process**********
+2025-06-30 12:52:28,620 [main] INFO inetBankingV2 - *********Login passed**********
+2025-06-30 12:52:28,620 [main] INFO inetBankingV2 - *********Page Title is matching**********
+2025-06-30 12:52:28,621 [main] INFO inetBankingV2 - *********Closing browser**********
+2025-06-30 12:52:29,501 [main] INFO inetBankingV2 - *********Launching browser**********
+2025-06-30 12:52:29,502 [main] INFO inetBankingV2 - *********Opening URL**********
+2025-06-30 12:52:31,480 [main] INFO inetBankingV2 - *********Providing Login details**********
+2025-06-30 12:52:31,628 [main] INFO inetBankingV2 - *********Started Login Process**********
+2025-06-30 12:52:34,674 [main] INFO inetBankingV2 - **************Login failed****************
+2025-06-30 12:52:35,760 [main] INFO inetBankingV2 - *********Closing browser**********
+2025-06-30 12:55:26,650 [main] INFO inetBankingV2 - *********Launching browser**********
+2025-06-30 12:55:26,661 [main] INFO inetBankingV2 - *********Opening URL**********
+2025-06-30 12:55:28,617 [main] INFO inetBankingV2 - *********Providing Login details**********
+2025-06-30 12:55:28,750 [main] INFO inetBankingV2 - *********Started Login Process**********
+2025-06-30 12:55:31,834 [main] INFO inetBankingV2 - *********Login passed**********
+2025-06-30 12:55:31,835 [main] INFO inetBankingV2 - *********Page Title is matching**********
+2025-06-30 12:55:35,253 [main] INFO inetBankingV2 - *********Adding New Customer**********
+2025-06-30 12:55:35,254 [main] INFO inetBankingV2 - *********Providing customer details**********
+2025-06-30 12:55:40,597 [main] INFO inetBankingV2 - *********Submitting customer details**********
+2025-06-30 12:55:43,697 [main] INFO inetBankingV2 - *********Closing browser**********
+2025-06-30 12:55:44,601 [main] INFO inetBankingV2 - *********Launching browser**********
+2025-06-30 12:55:44,624 [main] INFO inetBankingV2 - *********Opening URL**********
+2025-06-30 12:55:46,730 [main] INFO inetBankingV2 - *********Providing Login details**********
+2025-06-30 12:55:46,874 [main] INFO inetBankingV2 - *********Started Login Process**********
+2025-06-30 12:55:49,932 [main] INFO inetBankingV2 - *********Login passed**********
+2025-06-30 12:55:49,933 [main] INFO inetBankingV2 - *********Page Title is matching**********
+2025-06-30 12:55:50,941 [main] INFO inetBankingV2 - *********Checking already registered customer**********
+2025-06-30 12:55:50,941 [main] INFO inetBankingV2 - *********Providing a valid customer login details**********
+2025-06-30 12:55:51,003 [main] INFO inetBankingV2 - *********Submitting an existing customer details**********
+2025-06-30 12:55:51,040 [main] INFO inetBankingV2 - *********Confirmed that the costumer is already registered**********
+2025-06-30 12:55:51,906 [main] INFO inetBankingV2 - *********Closing browser**********
+2025-06-30 12:55:52,814 [main] INFO inetBankingV2 - *********Launching browser**********
+2025-06-30 12:55:52,815 [main] INFO inetBankingV2 - *********Opening URL**********
+2025-06-30 12:55:55,064 [main] INFO inetBankingV2 - *********Providing Login details**********
+2025-06-30 12:55:55,195 [main] INFO inetBankingV2 - *********Started Login Process**********
+2025-06-30 12:55:58,254 [main] INFO inetBankingV2 - *********Login passed**********
+2025-06-30 12:55:58,254 [main] INFO inetBankingV2 - *********Page Title is matching**********
+2025-06-30 12:55:58,255 [main] INFO inetBankingV2 - *********Closing browser**********
+2025-06-30 12:55:59,134 [main] INFO inetBankingV2 - *********Launching browser**********
+2025-06-30 12:55:59,135 [main] INFO inetBankingV2 - *********Opening URL**********
+2025-06-30 12:56:01,866 [main] INFO inetBankingV2 - *********Providing Login details**********
+2025-06-30 12:56:02,016 [main] INFO inetBankingV2 - *********Started Login Process**********
+2025-06-30 12:56:05,071 [main] INFO inetBankingV2 - *********Login passed**********
+2025-06-30 12:56:05,072 [main] INFO inetBankingV2 - *********Page Title is matching**********
+2025-06-30 12:56:05,073 [main] INFO inetBankingV2 - *********Closing browser**********
+2025-06-30 12:56:06,044 [main] INFO inetBankingV2 - *********Launching browser**********
+2025-06-30 12:56:06,045 [main] INFO inetBankingV2 - *********Opening URL**********
+2025-06-30 12:56:08,064 [main] INFO inetBankingV2 - *********Providing Login details**********
+2025-06-30 12:56:08,188 [main] INFO inetBankingV2 - *********Started Login Process**********
+2025-06-30 12:56:11,232 [main] INFO inetBankingV2 - **************Login failed****************
+2025-06-30 12:56:12,916 [main] INFO inetBankingV2 - *********Closing browser**********
+2025-06-30 13:31:45,822 [main] INFO inetBankingV2 - *********Launching browser**********
+2025-06-30 13:31:45,833 [main] INFO inetBankingV2 - *********Opening URL**********
+2025-06-30 13:31:47,938 [main] INFO inetBankingV2 - *********Providing Login details**********
+2025-06-30 13:31:48,074 [main] INFO inetBankingV2 - *********Started Login Process**********
+2025-06-30 13:31:51,357 [main] INFO inetBankingV2 - *********Login passed**********
+2025-06-30 13:31:51,357 [main] INFO inetBankingV2 - *********Page Title is matching**********
+2025-06-30 13:31:54,812 [main] INFO inetBankingV2 - *********Adding New Customer**********
+2025-06-30 13:31:54,812 [main] INFO inetBankingV2 - *********Providing customer details**********
+2025-06-30 13:32:00,180 [main] INFO inetBankingV2 - *********Submitting customer details**********
+2025-06-30 13:32:03,885 [main] INFO inetBankingV2 - *********Closing browser**********
+2025-06-30 13:32:04,637 [main] INFO inetBankingV2 - *********Launching browser**********
+2025-06-30 13:32:04,639 [main] INFO inetBankingV2 - *********Opening URL**********
+2025-06-30 13:32:06,685 [main] INFO inetBankingV2 - *********Providing Login details**********
+2025-06-30 13:32:06,812 [main] INFO inetBankingV2 - *********Started Login Process**********
+2025-06-30 13:32:09,870 [main] INFO inetBankingV2 - *********Login passed**********
+2025-06-30 13:32:09,871 [main] INFO inetBankingV2 - *********Page Title is matching**********
+2025-06-30 13:32:10,961 [main] INFO inetBankingV2 - *********Checking already registered customer**********
+2025-06-30 13:32:10,962 [main] INFO inetBankingV2 - *********Providing a valid customer login details**********
+2025-06-30 13:32:11,032 [main] INFO inetBankingV2 - *********Submitting an existing customer details**********
+2025-06-30 13:32:11,066 [main] INFO inetBankingV2 - *********Confirmed that the costumer is already registered**********
+2025-06-30 13:32:11,980 [main] INFO inetBankingV2 - *********Closing browser**********
+2025-06-30 13:32:12,687 [main] INFO inetBankingV2 - *********Launching browser**********
+2025-06-30 13:32:12,688 [main] INFO inetBankingV2 - *********Opening URL**********
+2025-06-30 13:32:14,682 [main] INFO inetBankingV2 - *********Providing Login details**********
+2025-06-30 13:32:14,811 [main] INFO inetBankingV2 - *********Started Login Process**********
+2025-06-30 13:32:18,524 [main] INFO inetBankingV2 - *********Login passed**********
+2025-06-30 13:32:18,524 [main] INFO inetBankingV2 - *********Page Title is matching**********
+2025-06-30 13:32:18,525 [main] INFO inetBankingV2 - *********Closing browser**********
+2025-06-30 13:32:19,285 [main] INFO inetBankingV2 - *********Launching browser**********
+2025-06-30 13:32:19,286 [main] INFO inetBankingV2 - *********Opening URL**********
+2025-06-30 13:32:20,962 [main] INFO inetBankingV2 - *********Providing Login details**********
+2025-06-30 13:32:21,094 [main] INFO inetBankingV2 - *********Started Login Process**********
+2025-06-30 13:32:24,150 [main] INFO inetBankingV2 - *********Login passed**********
+2025-06-30 13:32:24,150 [main] INFO inetBankingV2 - *********Page Title is matching**********
+2025-06-30 13:32:24,151 [main] INFO inetBankingV2 - *********Closing browser**********
+2025-06-30 13:32:24,936 [main] INFO inetBankingV2 - *********Launching browser**********
+2025-06-30 13:32:24,937 [main] INFO inetBankingV2 - *********Opening URL**********
+2025-06-30 13:32:26,934 [main] INFO inetBankingV2 - *********Providing Login details**********
+2025-06-30 13:32:27,056 [main] INFO inetBankingV2 - *********Started Login Process**********
+2025-06-30 13:32:30,336 [main] INFO inetBankingV2 - **************Login failed****************
+2025-06-30 13:32:30,840 [main] INFO inetBankingV2 - *********Closing browser**********
+2025-06-30 13:33:31,324 [main] INFO inetBankingV2 - *********Launching browser**********
+2025-06-30 13:33:31,335 [main] INFO inetBankingV2 - *********Opening URL**********
+2025-06-30 13:33:33,502 [main] INFO inetBankingV2 - *********Providing Login details**********
+2025-06-30 13:33:33,637 [main] INFO inetBankingV2 - *********Started Login Process**********
+2025-06-30 13:33:36,928 [main] INFO inetBankingV2 - *********Login passed**********
+2025-06-30 13:33:36,928 [main] INFO inetBankingV2 - *********Page Title is matching**********
+2025-06-30 13:33:40,425 [main] INFO inetBankingV2 - *********Adding New Customer**********
+2025-06-30 13:33:40,426 [main] INFO inetBankingV2 - *********Providing customer details**********
+2025-06-30 13:33:45,798 [main] INFO inetBankingV2 - *********Submitting customer details**********
+2025-06-30 13:33:49,470 [main] INFO inetBankingV2 - *********Closing browser**********
+2025-06-30 13:33:50,191 [main] INFO inetBankingV2 - *********Launching browser**********
+2025-06-30 13:33:50,192 [main] INFO inetBankingV2 - *********Opening URL**********
+2025-06-30 13:33:53,107 [main] INFO inetBankingV2 - *********Providing Login details**********
+2025-06-30 13:33:53,235 [main] INFO inetBankingV2 - *********Started Login Process**********
+2025-06-30 13:33:57,273 [main] INFO inetBankingV2 - *********Login passed**********
+2025-06-30 13:33:57,273 [main] INFO inetBankingV2 - *********Page Title is matching**********
+2025-06-30 13:33:58,436 [main] INFO inetBankingV2 - *********Checking already registered customer**********
+2025-06-30 13:33:58,436 [main] INFO inetBankingV2 - *********Providing a valid customer login details**********
+2025-06-30 13:33:58,494 [main] INFO inetBankingV2 - *********Submitting an existing customer details**********
+2025-06-30 13:33:58,529 [main] INFO inetBankingV2 - *********Confirmed that the costumer is already registered**********
+2025-06-30 13:33:59,413 [main] INFO inetBankingV2 - *********Closing browser**********
+2025-06-30 13:34:00,357 [main] INFO inetBankingV2 - *********Launching browser**********
+2025-06-30 13:34:00,358 [main] INFO inetBankingV2 - *********Opening URL**********
+2025-06-30 13:34:03,410 [main] INFO inetBankingV2 - *********Providing Login details**********
+2025-06-30 13:34:03,553 [main] INFO inetBankingV2 - *********Started Login Process**********
+2025-06-30 13:34:06,610 [main] INFO inetBankingV2 - *********Login passed**********
+2025-06-30 13:34:06,611 [main] INFO inetBankingV2 - *********Page Title is matching**********
+2025-06-30 13:34:06,612 [main] INFO inetBankingV2 - *********Closing browser**********
+2025-06-30 13:34:07,354 [main] INFO inetBankingV2 - *********Launching browser**********
+2025-06-30 13:34:07,356 [main] INFO inetBankingV2 - *********Opening URL**********
+2025-06-30 13:34:09,608 [main] INFO inetBankingV2 - *********Providing Login details**********
+2025-06-30 13:34:09,739 [main] INFO inetBankingV2 - *********Started Login Process**********
+2025-06-30 13:34:13,401 [main] INFO inetBankingV2 - *********Login passed**********
+2025-06-30 13:34:13,401 [main] INFO inetBankingV2 - *********Page Title is matching**********
+2025-06-30 13:34:13,401 [main] INFO inetBankingV2 - *********Closing browser**********
+2025-06-30 13:34:14,149 [main] INFO inetBankingV2 - *********Launching browser**********
+2025-06-30 13:34:14,151 [main] INFO inetBankingV2 - *********Opening URL**********
+2025-06-30 13:34:16,131 [main] INFO inetBankingV2 - *********Providing Login details**********
+2025-06-30 13:34:16,253 [main] INFO inetBankingV2 - *********Started Login Process**********
+2025-06-30 13:34:19,300 [main] INFO inetBankingV2 - **************Login failed****************
+2025-06-30 13:34:19,894 [main] INFO inetBankingV2 - *********Closing browser**********
+2025-06-30 13:46:48,697 [main] INFO inetBankingV2 - *********Launching browser**********
+2025-06-30 13:46:48,707 [main] INFO inetBankingV2 - *********Opening URL**********
+2025-06-30 13:46:50,922 [main] INFO inetBankingV2 - *********Providing Login details**********
+2025-06-30 13:46:51,071 [main] INFO inetBankingV2 - *********Started Login Process**********
+2025-06-30 13:46:54,194 [main] INFO inetBankingV2 - *********Login passed**********
+2025-06-30 13:46:54,195 [main] INFO inetBankingV2 - *********Page Title is matching**********
+2025-06-30 13:46:57,935 [main] INFO inetBankingV2 - *********Adding New Customer**********
+2025-06-30 13:46:57,936 [main] INFO inetBankingV2 - *********Providing customer details**********
+2025-06-30 13:47:03,293 [main] INFO inetBankingV2 - *********Submitting customer details**********
+2025-06-30 13:47:07,088 [main] INFO inetBankingV2 - *********Closing browser**********
+2025-06-30 13:47:08,085 [main] INFO inetBankingV2 - *********Launching browser**********
+2025-06-30 13:47:08,086 [main] INFO inetBankingV2 - *********Opening URL**********
+2025-06-30 13:47:10,283 [main] INFO inetBankingV2 - *********Providing Login details**********
+2025-06-30 13:47:10,419 [main] INFO inetBankingV2 - *********Started Login Process**********
+2025-06-30 13:47:13,719 [main] INFO inetBankingV2 - *********Login passed**********
+2025-06-30 13:47:13,719 [main] INFO inetBankingV2 - *********Page Title is matching**********
+2025-06-30 13:47:15,026 [main] INFO inetBankingV2 - *********Checking already registered customer**********
+2025-06-30 13:47:15,026 [main] INFO inetBankingV2 - *********Providing a valid customer login details**********
+2025-06-30 13:47:15,089 [main] INFO inetBankingV2 - *********Submitting an existing customer details**********
+2025-06-30 13:47:15,122 [main] INFO inetBankingV2 - *********Confirmed that the costumer is already registered**********
+2025-06-30 13:47:16,073 [main] INFO inetBankingV2 - *********Closing browser**********
+2025-06-30 13:47:16,942 [main] INFO inetBankingV2 - *********Launching browser**********
+2025-06-30 13:47:16,943 [main] INFO inetBankingV2 - *********Opening URL**********
+2025-06-30 13:47:19,156 [main] INFO inetBankingV2 - *********Providing Login details**********
+2025-06-30 13:47:19,300 [main] INFO inetBankingV2 - *********Started Login Process**********
+2025-06-30 13:47:22,669 [main] INFO inetBankingV2 - *********Login passed**********
+2025-06-30 13:47:22,670 [main] INFO inetBankingV2 - *********Page Title is matching**********
+2025-06-30 13:47:22,671 [main] INFO inetBankingV2 - *********Closing browser**********
+2025-06-30 13:47:23,457 [main] INFO inetBankingV2 - *********Launching browser**********
+2025-06-30 13:47:23,459 [main] INFO inetBankingV2 - *********Opening URL**********
+2025-06-30 13:47:25,652 [main] INFO inetBankingV2 - *********Providing Login details**********
+2025-06-30 13:47:25,767 [main] INFO inetBankingV2 - *********Started Login Process**********
+2025-06-30 13:47:29,433 [main] INFO inetBankingV2 - *********Login passed**********
+2025-06-30 13:47:29,433 [main] INFO inetBankingV2 - *********Page Title is matching**********
+2025-06-30 13:47:29,435 [main] INFO inetBankingV2 - *********Closing browser**********
+2025-06-30 13:47:30,288 [main] INFO inetBankingV2 - *********Launching browser**********
+2025-06-30 13:47:30,289 [main] INFO inetBankingV2 - *********Opening URL**********
+2025-06-30 13:47:32,355 [main] INFO inetBankingV2 - *********Providing Login details**********
+2025-06-30 13:47:32,497 [main] INFO inetBankingV2 - *********Started Login Process**********
+2025-06-30 13:47:35,857 [main] INFO inetBankingV2 - **************Login failed****************
+2025-06-30 13:47:36,378 [main] INFO inetBankingV2 - *********Closing browser**********
